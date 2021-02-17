@@ -61,13 +61,19 @@ function convert_comment_brief(brief, relative_path = '.') {
         }
     });
 
-    const html = $('body').html();
-    const text = $('body').text();
+    const $body = $('body');
+    const text = $body.text().trim();
+    let html = $body.html().replaceAll(/\s*<br>\s*/g, '<br>').replaceAll(/^(<br>)+|(<br>)+$/g, '');
 
-    if (html == text && /^.*?[a-zA-Z0-9！？，。……（）’“”~!@#$%^&*()-+_=\\\/|,.<>?`;:'"\[\]{}]{30,}.*$/.test(text)) {
-        return text.replaceAll(/([a-zA-Z0-9！？，。……（）’“”~!@#$%^&*()-+_=\\\/|,.<>?`;:'"\[\]{}]{30})/g, '$1<br>').replaceAll(/(<br>)+$/g, '');
+    if (html == text) {
+        if (/^.*?[a-zA-Z0-9~!@#$%^&*()-+_=\\\/|,.<>?`;:'"\[\]{}]{60,}.*$/.test(html)) {
+            html = html.replaceAll(/([a-zA-Z0-9~!@#$%^&*()-+_=\\\/|,.<>?`;:'"\[\]{}]{60})/g, '$1<br>').replaceAll(/(<br>)+$/g, '');
+        }
+        if (/^.*?[！？，。……（）’“”；：《》「」]{30,}.*$/.test(html)) {
+            html = html.replaceAll(/([！？，。……（）’“”；：《》「」]{30})/g, '$1<br>').replaceAll(/(<br>)+$/g, '');
+        }
     }
-    return html.replaceAll(/\s*<br>\s*/g, '<br>').replaceAll(/^(<br>)+|(<br>)+$/g, '');
+    return html;
 }
 
 function convert_comment(comment, indent = 0, relative_path = '.') {
