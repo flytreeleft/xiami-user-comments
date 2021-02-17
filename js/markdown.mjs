@@ -61,7 +61,13 @@ function convert_comment_brief(brief, relative_path = '.') {
         }
     });
 
-    return $('body').html().replaceAll(/\s*<br>\s*/g, '');
+    const html = $('body').html();
+    const text = $('body').text();
+
+    if (html == text && /^.*?[a-zA-Z0-9~!@#$%^&*()-+\\\/|,.<>?`;:'"\[\]{}]{30,}.*$/.test(text)) {
+        return text.replaceAll(/(.{30})/g, '$1<br>').replaceAll(/(<br>)+$/g, '');
+    }
+    return html.replaceAll(/\s*<br>\s*/g, '<br>').replaceAll(/^(<br>)+|(<br>)+$/g, '');
 }
 
 function convert_comment(comment, indent = 0, relative_path = '.') {
@@ -90,10 +96,13 @@ function convert_comment(comment, indent = 0, relative_path = '.') {
 }
 
 function convert_comments(comments, relative_path = '.') {
-    let text = "";
+    if (comments.length == 0) {
+        return "";
+    }
 
-    text += `|  |  |  |  |\n`;
-    text += `| :-- | :-- | :-- | :-- |\n`;
+    let text = "";
+    text += `|  |  |  |\n`;
+    text += `| :-- | :-- | :-- |\n`;
 
     comments.forEach((comment) => {
         text += `${convert_comment(comment, 0, relative_path)}`;
@@ -103,8 +112,11 @@ function convert_comments(comments, relative_path = '.') {
 }
 
 function convert_albums(albums) {
-    let text = "";
+    if (albums.length == 0) {
+        return "";
+    }
 
+    let text = "";
     text += `| 名称 | 语种 | 唱片公司 | 发行时间 | 专辑类别 | 专辑风格 |\n`;
     text += `| :--: | :-- | :-- | :-- | :-- | :-- |\n`;
 
@@ -142,6 +154,10 @@ function convert_song_lyric_extra(song) {
     return $('body').html().replaceAll(/\s*\n\s*/g, '\n').replaceAll(/^/mg, '> ');
 }
 
+function convert_html_text(text) {
+    return text ? `<div>\n${text.replaceAll(/\s*\n\s*/g, '<br>\n')}\n</div>\n` : '';
+}
+
 async function convertMusicianAlbumSong(musician, album, song) {
     const album_dir = config.get_file_from_musician_album_data_dir(musician, album.id);
     const index_file = path.join(album_dir, `${get_song_code(song)}.md`);
@@ -164,7 +180,7 @@ async function convertMusicianAlbumSong(musician, album, song) {
     text += `\n`;
     text += `## 歌词\n`;
     text += `\n`;
-    text += `<div>\n${song.lyric.replaceAll(/\s*\n\s*/g, '<br>\n')}\n</div>\n`;
+    text += convert_html_text(song.lyric);
 
     if (song.lyric_extra) {
         text += `</br>\n\n`;
@@ -232,7 +248,7 @@ async function convertMusicianAlbum(musician, album) {
     text += `\n`;
     text += `## 简介\n`;
     text += `\n`;
-    text += `<div>\n${album.intro.replaceAll(/\s*\n\s*/g, '<br>\n')}\n</div>\n`;
+    text += convert_html_text(album.intro);
 
     text += `\n`;
     text += `## 曲目\n`;
@@ -295,17 +311,17 @@ async function convertMusician(musician) {
     text += `| `;
     text += `[![](../${get_musician_photo_file(musician)})<br>${musician.name}](${musician.real_link})`;
     text += ` | `;
+    text += `**地区**: ${musician.area}<br>`;
+    text += `**风格**: ${(musician.music_styles || []).join(', ')}<br>`;
     text += `**播放数**: ${musician.play_count_num}<br>`;
     text += `**粉丝数**: ${musician.fans_num}<br>`;
     text += `**评论数**: ${musician.comments_num}<br>`;
-    text += `**地区**: ${musician.area}<br>`;
-    text += `**风格**: ${(musician.music_styles || []).join(', ')}<br>`;
     text += ` |\n`;
 
     text += `\n`;
     text += `## 档案\n`;
     text += `\n`;
-    text += `<div>\n${musician.profile.replaceAll(/\s*\n\s*/g, '<br>\n')}\n</div>\n`;
+    text += convert_html_text(musician.profile);
 
     text += `\n`;
     text += `## 专辑\n`;
