@@ -64,8 +64,8 @@ function convert_comment_brief(brief, relative_path = '.') {
     const html = $('body').html();
     const text = $('body').text();
 
-    if (html == text && /^.*?[a-zA-Z0-9~!@#$%^&*()-+\\\/|,.<>?`;:'"\[\]{}]{30,}.*$/.test(text)) {
-        return text.replaceAll(/(.{30})/g, '$1<br>').replaceAll(/(<br>)+$/g, '');
+    if (html == text && /^.*?[a-zA-Z0-9！？，。……（）’“”~!@#$%^&*()-+_=\\\/|,.<>?`;:'"\[\]{}]{30,}.*$/.test(text)) {
+        return text.replaceAll(/([a-zA-Z0-9！？，。……（）’“”~!@#$%^&*()-+_=\\\/|,.<>?`;:'"\[\]{}]{30})/g, '$1<br>').replaceAll(/(<br>)+$/g, '');
     }
     return html.replaceAll(/\s*<br>\s*/g, '<br>').replaceAll(/^(<br>)+|(<br>)+$/g, '');
 }
