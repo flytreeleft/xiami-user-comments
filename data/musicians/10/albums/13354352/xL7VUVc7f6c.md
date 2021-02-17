@@ -45,7 +45,7 @@
 </div>
 </br>
 
-> <p>文本歌词最后由 <a target="_blank" href="https://emumo.xiami.com/u/3250187">王胜君</a> 编辑于2019-09-11 16:05</p><br>
+> <p>文本歌词最后由 <a target="_blank" href="https://emumo.xiami.com/u/3250187">王胜君</a> 编辑于2019-09-11 16:05</p>
 > <p>LRC歌词最后由 <a target="_blank" href="https://emumo.xiami.com/u/3250187">王胜君</a> 编辑于2019-09-11 14:47</p>
 
 ## 评论

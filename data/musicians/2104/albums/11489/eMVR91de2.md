@@ -1,0 +1,71 @@
+[Can't Get EnoughMV](https://emumo.xiami.com/song/eMVR91de2)
+====================================================
+
+- **所属专辑**: [昨日·唯一·更多](../11489.md)
+- **演唱者**: 顺子
+- **作词**: 
+- **作曲**: 
+- **编曲**: 
+- **播放数**: 4075
+- **分享数**: 4
+- **评论数**: 1
+
+## 歌词
+
+<div>
+CAN'T GET ENOUGH    词/SHUNZA  曲/SHUNZA &amp; YORGOS BENARDOS<br><br>
+I JUST WANT TO TOUCH YOU HERE.<br><br>
+I WANNA TOUCH YOU THERE.<br><br>
+I JUST WANT TO TOUCH YOU EVERYWHERE IT GOES.<br><br>
+I JUST WANT TO MAKE SOME TIME.<br><br>
+CAN'T YOU UNDERSTAND MY RHYME?<br><br>
+I JUST WANT TO MAKE SOME LOVE AND SOME BABIES.<br><br>
+OH, I CAN'T GET ENOUGH OF YOU!<br><br>
+I JUST CAN'T GET ENOUGH OF YOU!<br><br>
+OH, I CANT GET ENOUGH OF YOU!<br><br>
+I JUST CANT GET ENOUGH OF YOU!<br><br>
+(music)<br><br>
+I JUST WANT TO TOUCH YOU HERE.<br><br>
+I WANNA TOUCH YOU THERE.<br><br>
+I JUST WANT TO TOUCH YOU EVERYWHERE IT GOES.<br><br>
+I JUST WANT TO MAKE SOME TIME.<br><br>
+CAN'T YOU UNDERSTAND MY RHYME?<br><br>
+I JUST WANT TO MAKE SOME LOVE AND SOME BABIES.<br><br>
+OH, I CAN'T GET ENOUGH OF YOU!<br><br>
+I JUST CAN'T GET ENOUGH OF YOU!<br><br>
+OH, I CANT GET ENOUGH OF YOU!<br><br>
+I JUST CANT GET ENOUGH OF YOU!<br><br>
+SINCE YOU'VE BEEN SEEIN' ME AROUND THE BLOCK.<br><br>
+I GOTTA LET YA KNOW.I GOTTA LET YA KNOW , DOC,<br><br>
+THAT YOU'RE THE FINEST THANG I NOTICED IN A LONG TIME.<br><br>
+I WAS THINKIN' MAYBE YOU AND I COULD GET ON JUST FINE.<br><br>
+TOGETHER IN THE GOOD WEATHER, PERHAPS WE BETTER.<br><br>
+GET TOGETHER AND MAKE IT MATTER.<br><br>
+DADDY-YO,DONT YA GO.MISS THE SHOW,LET ME KNOW .<br><br>
+FEEL THE BUTTERFLIES IN MY STOMACH GO.YO-YO!<br><br>
+SINCE I'M THE NEW GIRL AROUND THE BLOCK.<br><br>
+THE KANGOL KID AND ESPECIALLY DOC.<br><br>
+WOULD LIKE TO SLEEP WITH ME IF HE CAN.<br><br>
+BUT YOU'RE JUST A BOY,YOU'RE NOT EVEN A MAN!<br><br>
+I'M BACK AGAIN AND THIS TIME I GOTTA LET IT GO.<br><br>
+LET THE RAIN SLIDE DOWN MY  BACK AND MAKE A RAINBOW.<br><br>
+DO YOU SEE THE SEVEN COLORS OF MY <arc.en-ciel?><br><br>
+I BETCHA FIVE DOLLARS I'M-A-MAKE YOU YELL.<br><br>
+THEN SCREAM WITH PLEASURE AT YOUR EVERY MOVE.<br><br>
+CONTRACTIONS ON THE TWO-AND-FOUR OF THIS GROOVE.<br><br>
+REPETITIONS OF THE FACT THAT I CANT GET ENOUGH.<br><br>
+I'M GONNA OOZE MY LOVE IN YOU!<br><br>
+OH,I CANT GET ENOUGH OF YOU!<br><br>
+I JUST CANT GET ENOUGH OF YOU!<br><br>
+OH,I CANT GET ENOUGH OF YOU!<br><br>
+I JUST CANT GET ENOUGH OF YOU!<br><br>
+<br><br>
+Welcome to /lyrics<br>
+</arc.en-ciel?>
+</div>
+
+## 评论
+
+|  |  |  |  |
+| :-- | :-- | :-- | :-- |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2842497)<br><br>2011-03-16 09:23<br>赞(0) 踩(0) | <div>节奏不错</div> |

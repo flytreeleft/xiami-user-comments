@@ -1,0 +1,77 @@
+GS
+============================
+
+|  |  |
+| :--: | :-- |
+| [![](../../images/musicians/20d8bef876b72c203e698aff4b83f9a0.jpg)<br>GS](https://i.xiami.com/gsl) | **播放数**: 1912062<br>**粉丝数**: 467<br>**评论数**: 27<br>**地区**: 中国大陆 China<br>**风格**: 古典音乐 Classical, 游戏配乐 Video Game Music, 器乐独奏 Solo Instrumental, 卡通配乐 Cartoon Music, 电影原声 Film Score<br> |
+
+## 档案
+
+<div>
+上限400MB了哦
+</div>
+
+## 专辑
+
+| 名称 | 语种 | 唱片公司 | 发行时间 | 专辑类别 | 专辑风格 |
+| :--: | :-- | :-- | :-- | :-- | :-- |
+| [![](../../images/albums/7cb01051eb66bed8c597acbd6e043364.png)<br>《原神》钢琴曲集](./albums/5021686177.md) | 纯音乐 | 独立发行 | 2020年10月16日 | 录音室专辑 | 游戏配乐 Video Game Music, 中国风 China-Wave, 器乐独奏 Solo Instrumental |
+| [![](../../images/albums/11b1ff145b3e15f79553b34e2ed35c10.png)<br><你的名字>钢琴曲集](./albums/5021474655.md) | 纯音乐 | 独立发行 | 2020年09月17日 | 录音室专辑 | 日本动漫游戏 Japanese ACG, 日本流行 J-Pop, 器乐独奏 Solo Instrumental |
+| [![](../../images/albums/d1a9a90f184fc30a09d904656afe18a3.png)<br>VOCALOID钢琴曲集](./albums/5021471752.md) | 纯音乐 | 独立发行 | 2020年09月17日 | 录音室专辑 | 器乐独奏 Solo Instrumental, 日本动漫游戏 Japanese ACG, 同人音乐 DouJin |
+| [![](../../images/albums/13b080b27b816eafbd861dcfbef76be2.png)<br>巴赫钢琴曲集](./albums/5021454785.md) | 纯音乐 | 独立发行 | 2020年09月14日 | 录音室专辑 | 巴洛克音乐 Baroque Music, 独奏 Recital, 键盘音乐 Keyboard |
+| [![](../../images/albums/26269cb560e1ac08103bebe2ff8d6797.jpg)<br>东方Projet Vol.2](./albums/2104828075.md) | 纯音乐 | 独立发行 | 2019年12月25日 | 精选集 | 器乐独奏 Solo Instrumental, 日本流行 J-Pop, 同人音乐 DouJin |
+| [![](../../images/albums/6bb1d635d9ea4fc8d673757c6f4ec577.jpg)<br>流行钢琴曲Vol.1](./albums/2104164380.md) | 纯音乐 | 独立发行 | 2019年09月02日 | 精选集 | 器乐独奏 Solo Instrumental, 国语流行 Mandarin Pop, 器乐流行 Instrumental Pop |
+| [![](../../images/albums/48104dddb1efe75c160572754a589c75.jpg)<br>久石让钢琴曲集Vol.1久石让音乐钢琴版](./albums/2104857634.md) | 纯音乐 | 独立发行 | 2019年08月13日 | 精选集 | 器乐独奏 Solo Instrumental, 电影原声 Film Score, 日本动漫游戏 Japanese ACG |
+| [![](../../images/albums/24d1064064fc09e1b3ac0e66824b5da3.png)<br>电影动漫音乐Remix Vol.2](./albums/2104349405.md) | 纯音乐 | 独立发行 | 2019年07月22日 | 精选集 | 日本动漫游戏 Japanese ACG, 原声 Soundtrack, 电影原声 Film Score |
+| [![](../../images/albums/647b62e00ad6072027d2b4e333fbb4d4.jpg)<br>无伴唱伴奏重制](./albums/2104988604.md) | 国语 | 独立发行 | 2019年07月12日 | 精选集 | 日本流行 J-Pop, 流行 Pop, 国语流行 Mandarin Pop |
+| [![](../../images/albums/5bdded2eb4f291b6631f8e243ef1e557.png)<br>肖邦钢琴曲集](./albums/2104888481.md) | 纯音乐 | 独立发行 | 2019年05月21日 | 录音室专辑 | 古典主义 Classical period, 独奏 Recital, 浪漫主义 Romanticism |
+| [![](../../images/albums/2b61aef740d1f5a15d2dc1e72efbf915.jpg)<br>经典钢琴名曲制作曲Vol.1极致音质](./albums/2104881297.md) | 纯音乐 |  | 2019年05月20日 | 精选集 | 键盘音乐 Keyboard, 西方古典 Western Classical Music, 器乐独奏 Solo Instrumental |
+| [![](../../images/albums/60411f4d8f6fbc191da0678cc57535e4.jpg)<br>英雄联盟音乐钢琴版](./albums/2104869905.md) | 纯音乐 |  | 2019年05月17日 | 精选集 | 游戏配乐 Video Game Music, 器乐独奏 Solo Instrumental, 电影原声 Film Score |
+| [![](../../images/albums/fdaa229ee4fcb7256fafafa8a35b84a3.jpg)<br>肖邦练习曲慢速版听力训练](./albums/2104888316.md) | 纯音乐 |  | 2019年05月15日 | 精选集 | 现代古典 Modern Classical, 独奏 Recital, 浪漫主义 Romanticism |
+| [![](../../images/albums/4f60362322a8f51742bfa125ba84fe5d.jpg)<br>游戏音乐钢琴版](./albums/2104843761.md) | 纯音乐 |  | 2019年05月06日 | 精选集 | 网络流行 Cyber Hit, 器乐独奏 Solo Instrumental |
+| [![](../../images/albums/bff640a4a67c56f8299da4a10c728f0b.jpg)<br>欧美流行音乐钢琴版](./albums/2104838033.md) | 纯音乐 |  | 2019年05月03日 | 精选集 | 欧美流行 Western Pop, 器乐独奏 Solo Instrumental, 器乐流行 Instrumental Pop |
+| [![](../../images/albums/88f0a1efd4705eef4b83b5fc355d30ef.jpg)<br>Game of Thrones 权力的游戏钢琴曲](./albums/2104846120.md) | 纯音乐 |  | 2019年04月03日 | 精选集 | 器乐流行 Instrumental Pop, 电影原声 Film Score |
+| [![](../../images/albums/36223010314a89efa170ff93e37fe430.jpg)<br>未完成的Demo](./albums/2104600132.md) | 纯音乐 | 独立发行 | 2019年02月16日 | 精选集 | 器乐独奏 Solo Instrumental, 游戏配乐 Video Game Music, 电影原声 Film Score |
+| [![](../../images/albums/463fa1d69f201fb3903ba0d6982c2777.png)<br>John Williams钢琴曲集](./albums/2104155121.md) | 纯音乐 | 独立发行 | 2018年10月01日 | 精选集 | 器乐独奏 Solo Instrumental, 原声 Soundtrack, 电影原声 Film Score |
+| [![](../../images/albums/c76dde9ebd82cfe56acb2b62dffe675f.jpg)<br>华丽改编的钢琴曲集Boston钢琴](./albums/2104406205.md) | 纯音乐 | 独立发行 | 不详 | 精选集 | 器乐独奏 Solo Instrumental, 日本动漫游戏 Japanese ACG, 电影原声 Film Score |
+| [![](../../images/albums/f5565ff2da2f7f13fc2d94a77c75fff0.jpg)<br>复仇者联盟钢琴曲](./albums/2104830159.md) | 纯音乐 |  | 不详 | 精选集 | 原声 Soundtrack, 电影原声 Film Score, 轻音乐流行 Light Pop |
+| [![](../../images/albums/3bffebf3df6eadd71f3e25b11db39b72.jpg)<br>水晶音乐无损](./albums/2104998969.md) | 纯音乐 | 独立发行 | 不详 | 精选集 | 轻音乐 Easy Listening, 电影原声 Film Score |
+| [![](../../images/albums/3744e1b540be5ecd5578721b012c6b48.png)<br>《 東京喰種》钢琴曲集](./albums/5021474231.md) | 纯音乐 | 独立发行 | 不详 | 录音室专辑 | 日本动漫游戏 Japanese ACG, 日本摇滚 J-Rock, 器乐独奏 Solo Instrumental |
+| [![](../../images/albums/0b2f49f3160b7295873d8ed92e1e8926.png)<br>《来自风平浪静的明天》钢琴曲集](./albums/5021450951.md) | 纯音乐 | 独立发行 | 不详 | 录音室专辑 | 日本动漫游戏 Japanese ACG, 同人音乐 DouJin, 器乐独奏 Solo Instrumental |
+| [![](../../images/albums/88b20a1380387a365b82354e6968e472.jpg)<br>王国之心钢琴曲集](./albums/2104857577.md) | 纯音乐 |  | 不详 | 精选集 | 日本动漫游戏 Japanese ACG, 游戏配乐 Video Game Music, 器乐独奏 Solo Instrumental |
+| [![](../../images/albums/474eb6612a2929e3c5e13e5339dab77c.png)<br>柴可夫斯基钢琴曲集](./albums/5021452909.md) | 纯音乐 | 独立发行 | 不详 | 录音室专辑 | 浪漫主义 Romanticism, 芭蕾 Ballet, 独奏 Recital |
+| [![](../../images/albums/908a2c41419bf46e4bf2aeb3de9f477b.png)<br>《尼尔：机械纪元》钢琴曲集](./albums/5021472782.md) | 纯音乐 | 独立发行 | 不详 | 录音室专辑 | 日本动漫游戏 Japanese ACG, 游戏配乐 Video Game Music, 器乐独奏 Solo Instrumental |
+| [![](../../images/albums/9a71516bf430ec8a79df8c8fdd443811.png)<br>《刀剑神域》钢琴曲集](./albums/5021479512.md) | 纯音乐 | 独立发行 | 不详 | 录音室专辑 | 器乐独奏 Solo Instrumental, 游戏配乐 Video Game Music, 日本动漫游戏 Japanese ACG |
+| [![](../../images/albums/ee66e6956f49c0f22af89ba8f57965be.png)<br>Re:ゼロから始める異世界生活](./albums/5021443879.md) | 纯音乐 | 独立发行 | 不详 | 录音室专辑 | 日本动漫游戏 Japanese ACG, 器乐独奏 Solo Instrumental, 日本流行 J-Pop |
+
+## 评论
+
+|  |  |  |  |
+| :-- | :-- | :-- | :-- |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289687772)<br><br>2020-11-17 08:38<br>赞(1) 踩(0) | <div>优美动听的钢琴曲，值得收藏。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337518453)<br><br>2020-09-14 13:56<br>赞(0) 踩(0) | <div>大佬 巫师3组曲怎么突然没了 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403644632)<br>我还没想好要写什么...<br>2020-09-14 22:30<br>赞(0) 踩(0) | <div>不是大佬 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png">我正在整理下列表，有些混乱。 会重传的，有好多也打算重制一下，包括巫师3。主要有好多力度太粗糙，踏板效果输出时因为故障没加上 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337518453)<br><br>2020-09-15 08:59<br>赞(0) 踩(0) | <div><q><b>Mike说：</b></q></div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337518453)<br><br>2020-09-15 09:14<br>赞(0) 踩(0) | <div><q><b>keanu50601584说：</b></q></div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403644632)<br>我还没想好要写什么...<br>2020-09-18 13:50<br>赞(0) 踩(0) | <div><q><b>keanu50601584说：</b></q></div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403644632)<br>我还没想好要写什么...<br>2020-09-18 13:51<br>赞(0) 踩(0) | <div><q><b>keanu50601584说：</b></q></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357662728)<br><br>2020-08-20 12:56<br>赞(0) 踩(0) | <div><img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39117369)<br>山东省五莲县极端音乐推广...<br>2020-07-22 20:46<br>赞(0) 踩(0) | <div>低调的人</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412537698)<br><br>2020-07-06 11:34<br>赞(0) 踩(0) | <div>有简谱分享的话就更好了。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412537698)<br><br>2020-07-06 11:33<br>赞(1) 踩(0) | <div>是个超级大神。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412537698)<br><br>2020-07-06 11:33<br>赞(1) 踩(0) | <div>真是爆好听! <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412537698)<br><br>2020-07-06 11:31<br>赞(1) 踩(0) | <div>钢琴之神。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/204406103)<br>I just don't...<br>2020-02-20 14:09<br>赞(2) 踩(0) | <div>40后男生？ <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246421213)<br>唉美智子辣么可爱却辣么可...<br>2020-02-02 23:31<br>赞(3) 踩(0) | <div>好棒好棒好棒好棒！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3707881)<br>等你有版权了我会回来爱你...<br>2020-01-03 17:01<br>赞(3) 踩(0) | <div>有微信唉</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/173276000)<br><br>2019-12-26 02:10<br>赞(4) 踩(0) | <div>有书出版吗大神？</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252237183)<br><br>2019-11-02 14:00<br>赞(3) 踩(0) | <div>钢琴声不像是boston弹出来的啊 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299929094)<br>我还没想好要写什么...<br>2019-08-14 23:58<br>赞(4) 踩(0) | <div>好听</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336910827)<br>我还没想好要写<br>2019-08-12 22:01<br>赞(4) 踩(0) | <div>曲子中的琶音好好听</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21216985)<br>缓缓归<br>2019-07-02 09:45<br>赞(3) 踩(0) | <div>发现了宝藏~~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/94045390)<br> <br>2019-06-25 10:40<br>赞(3) 踩(0) | <div>这几首曲子真纯净！感谢分享！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424694444)<br><br>2019-05-17 17:54<br>赞(1) 踩(0) | <div>复联4片尾曲简谱是什么？</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424694444)<br><br>2019-05-17 17:53<br>赞(2) 踩(0) | <div>好听</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326574093)<br><br>2019-04-12 22:54<br>赞(0) 踩(0) | <div>厉害厉害</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7010600)<br>相知相爱莫相忘<br>2019-03-11 01:00<br>赞(1) 踩(0) | <div>好听</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54821316)<br><br>2018-12-15 23:30<br>赞(2) 踩(0) | <div>NB~~~~~~~~~~~</div> |
