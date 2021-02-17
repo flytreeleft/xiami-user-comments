@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../images/musicians/63d69e2d900f9856510544646ace3c93.jpg)](https://i.xiami.com/luowuamu) | **播放数**: 20223890<br>**粉丝数**: 4908<br>**评论数**: 105<br>**地区**: China 中国大陆<br>**风格**: <br> |
+| [![](../../images/musicians/63d69e2d900f9856510544646ace3c93.jpg)](https://i.xiami.com/luowuamu) | **播放数**: 20223890<br>**粉丝数**: 4908<br>**评论数**: 105<br>**地区**: China 中国大陆<br>**风格**: <br> |
 
 ## 档案
 
