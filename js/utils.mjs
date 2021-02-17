@@ -108,10 +108,14 @@ export async function parseAndFetchPageComments(html, fetchPageCb, page = 2) {
     return comments;
 }
 
+export async function writeText(file, text) {
+    await fs.writeFile(file, text, 'utf8');
+}
+
 export async function writeJson(file, obj, pretty = false) {
     const json = JSON.stringify(obj, null, pretty ? 2 : 0);
 
-    await fs.writeFile(file, json, 'utf8');
+    await writeText(file, json);
 }
 
 export async function writeJsonIfFileNotExist(file, cb) {
@@ -142,11 +146,16 @@ export function md5(str) {
     return crypto.createHash('md5').update(str).digest("hex");
 }
 
-export async function fetchAndSaveImage(dir, url) {
+export function get_image_url_md5_name(url) {
     // https://pic.xiami.net/images/avatar_new/557074726_1554829324.jpg@1e_1c_0i_1o_100Q_100w_100h
     // https://img.xiami.net/res/js/jquery/editor/sets/bbcode/images/smilies/default/425.png
     const image_suffix = url.replaceAll(/@[^@]+$/g, '').replaceAll(/.+\.([^.]+)$/g, '$1');
-    const image_file = path.join(dir, md5(url) + '.' + image_suffix);
+
+    return md5(url) + '.' + image_suffix;
+}
+
+export async function fetchAndSaveImage(dir, url) {
+    const image_file = path.join(dir, get_image_url_md5_name(url));
 
     if (shell.test('-e', image_file)) {
         console.log('>> ' + url + ' is already fetched.');
