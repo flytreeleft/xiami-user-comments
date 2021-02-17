@@ -149,7 +149,7 @@ export function md5(str) {
 export function get_image_url_md5_name(url) {
     // https://pic.xiami.net/images/avatar_new/557074726_1554829324.jpg@1e_1c_0i_1o_100Q_100w_100h
     // https://img.xiami.net/res/js/jquery/editor/sets/bbcode/images/smilies/default/425.png
-    const image_suffix = url.replaceAll(/@[^@]+$/g, '').replaceAll(/.+\.([^.]+)$/g, '$1');
+    const image_suffix = patchLink(url).replaceAll(/@[^@]+$/g, '').replaceAll(/.+\.([^.]+)$/g, '$1');
 
     return md5(url) + '.' + image_suffix;
 }
@@ -158,20 +158,20 @@ export async function fetchAndSaveImage(dir, url) {
     const image_file = path.join(dir, get_image_url_md5_name(url));
 
     if (shell.test('-e', image_file)) {
-        console.log('>> ' + url + ' is already fetched.');
+        console.log('>> ' + image_url + ' is already fetched.');
         return;
     }
-
     shell.mkdir('-p', dir);
 
-    console.log('>> fetch ' + url + ' to ' + image_file + ' ...');
+    const image_url = encodeURI(patchLink(url));
+    console.log('>> fetch ' + image_url + ' to ' + image_file + ' ...');
 
     try {
-        const response = await fetch(url, {timeout: 30 * 1000});
+        const response = await fetch(image_url, {timeout: 30 * 1000});
         const buffer = await response.buffer();
 
         await fs.writeFile(image_file, buffer);
     } catch (e) {
-        console.log('>> fetch ' + url + ' failed: ' + e.message);
+        console.log('>> fetch ' + image_url + ' failed: ' + e.message);
     }
 }
