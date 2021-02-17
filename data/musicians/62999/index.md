@@ -1021,7 +1021,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2569221)<br><br>2011-10-12 21:37<br>赞(0) 踩(0) | <div>墨明棋妙,</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3647708)<br>世事如棋<br>2011-10-12 14:57<br>赞(0) 踩(0) | <div>墨明奇妙的歌经典曲也挺多</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6212639)<br><br>2011-10-12 12:56<br>赞(0) 踩(0) | <div>大爱~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6137564)<br><br>2011-10-12 09:05<br>赞(0) 踩(0) | <div>！！！！！！！！！！！！！！！！！！！！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6137564)<br><br>2011-10-12 09:05<br>赞(0) 踩(0) | <div>！！！！！！！！！！！！！！！！！！！！<br>！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5692215)<br>忽如远行客<br>2011-10-10 17:51<br>赞(0) 踩(0) | <div>古风流水，轻吟低唱，唯爱墨村。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6159407)<br><br>2011-10-10 16:03<br>赞(0) 踩(0) | <div>心头好。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6159407)<br><br>2011-10-10 16:03<br>赞(0) 踩(0) | <div>心头好~~</div> |

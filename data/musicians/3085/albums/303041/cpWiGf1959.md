@@ -2379,7 +2379,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4825471)<br><br>2012-08-17 11:34<br>赞(0) 踩(0) | <div>乐一点儿 乐一点儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7611362)<br> <br>2012-08-04 02:15<br>赞(0) 踩(0) | <div>苦逼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1343458)<br>我还没想好要写什么...<br>2012-08-04 01:56<br>赞(0) 踩(0) | <div>再见 杰克  再见我的凯鲁亚克</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4113193)<br><br>2012-07-24 09:32<br>赞(0) 踩(0) | <div>让我欢乐一点，欢乐一点！！！！！！！！！！！！！！！！！！！！！！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4113193)<br><br>2012-07-24 09:32<br>赞(0) 踩(0) | <div>让我欢乐一点，欢乐一点！！！！！！！！！！！！！！！！！！！！<br>！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9779942)<br>秋天走了 你的声音用旧了<br>2012-07-23 10:03<br>赞(0) 踩(0) | <div>本周目标：调整睡眠。开始游泳。周末二手玫瑰躁起来！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1361414)<br> <br>2012-07-22 10:58<br>赞(0) 踩(0) | <div>自觉是痛仰为数不多的好听歌曲之最</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8284101)<br> <br>2012-07-17 09:14<br>赞(0) 踩(0) | <div>@肥杰豪克</div> |

@@ -287,7 +287,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322086764)<br><br>2018-07-26 21:46<br>赞(0) 踩(0) | <div><q><b>keaisixu说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3021290)<br>次歌迷<br>2018-03-31 23:06<br>赞(2) 踩(0) | <div>当今歌坛需要这样的歌手。加油！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/90364608)<br>愿时光能缓，故人不散！<br>2018-03-31 21:55<br>赞(1) 踩(0) | <div>真的很好听，每天开车上下班一遍遍的听！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350233343)<br><br>2018-03-31 11:16<br>赞(1) 踩(0) | <div>南京等大哥！！！！！！！！！！！！！！！！！！！！！！！！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350233343)<br><br>2018-03-31 11:16<br>赞(1) 踩(0) | <div>南京等大哥！！！！！！！！！！！！！！！！！！！！<br>！！！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307452928)<br><br>2018-03-30 17:06<br>赞(1) 踩(0) | <div>加油  你一定要加油  你唱歌真的很好听  爱你的歌<br>&amp;mdash;&amp;mdash;爱你的路人</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5517046)<br>我还没想好要写什么...<br>2018-03-28 15:38<br>赞(1) 踩(0) | <div>声音和孙燕姿有点儿像</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247840834)<br>我还没想好要写什么...<br>2018-03-26 23:35<br>赞(3) 踩(0) | <div>比较典型的歌红人不红，，，但是金玟岐是个专业的歌手，不是为了红而唱歌，每首歌都有自己的故事和情感，不是口水歌就足够了。作为个00后第一个粉的中国歌手，第二个歌手（第一个是霉霉），还好游戏没让我错过你，三年了，期待下一个三年。</div> |

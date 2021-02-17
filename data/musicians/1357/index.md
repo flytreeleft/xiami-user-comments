@@ -972,7 +972,7 @@ Music Radio 中国TOP排行榜 “内地年度最佳创作歌手”、“内地�
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4159123)<br><br>2012-07-21 07:22<br>赞(0) 踩(0) | <div>声音不错</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9669200)<br><br>2012-07-20 03:52<br>赞(0) 踩(0) | <div>声音干净，拨动内心</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6421731)<br><br>2012-07-20 00:31<br>赞(0) 踩(0) | <div>小清新</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9770943)<br><br>2012-07-19 17:19<br>赞(0) 踩(0) | <div>班长！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9770943)<br><br>2012-07-19 17:19<br>赞(0) 踩(0) | <div>班长！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9853902)<br><br>2012-07-17 22:54<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6906282)<br><br>2012-07-17 16:52<br>赞(0) 踩(0) | <div>ICY是淑女</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4999444)<br><br>2012-07-17 10:13<br>赞(0) 踩(0) | <div>民谣的动力</div> |

@@ -429,7 +429,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73033)<br><br>2012-02-22 00:40<br>赞(0) 踩(0) | <div>大班同学们~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2452005)<br>音乐是最贴心的情人。<br>2012-02-21 23:41<br>赞(0) 踩(0) | <div>风格还是这样。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6474559)<br><br>2012-02-21 23:26<br>赞(0) 踩(0) | <div>用这首美美的歌试试是不是真的改版了~~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/664700)<br>音楽と喫茶店:)<br>2012-02-21 23:24<br>赞(0) 踩(0) | <div>曹班长的新专辑啊啊啊啊啊  好听的要死了TT  尼玛好想哭。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。<br>。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/664700)<br>音楽と喫茶店:)<br>2012-02-21 23:24<br>赞(0) 踩(0) | <div>曹班长的新专辑啊啊啊啊啊  好听的要死了TT  尼玛好想哭。。。。。。。。。。。。。。。。。。。。<br>。。。。。。。。。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2361171)<br>音乐响起.又是美好的一天<br>2012-02-21 23:07<br>赞(0) 踩(0) | <div>西藏 离我不远了!~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4259707)<br><br>2012-02-21 22:38<br>赞(0) 踩(0) | <div>。。。。曾经我们都太年轻了，不懂幸福很脆弱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/652547)<br><br>2012-02-21 22:29<br>赞(0) 踩(0) | <div>久违</div> |

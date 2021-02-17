@@ -61,7 +61,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276094038)<br>遗 世//。而 独立 <br>2020-03-16 02:32<br>赞(0) 踩(0) | <div>谢谢你们坚持了这么久 请一直都在</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2796166)<br>最爱莫文蔚.....<br>2020-02-18 01:58<br>赞(0) 踩(0) | <div>加油~~~~yeah~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4325830)<br><br>2020-01-23 13:19<br>赞(1) 踩(0) | <div>20年了，该出新专辑了吧。 <img src="../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251583221)<br><br>2020-01-22 22:49<br>赞(0) 踩(0) | <div>牛牛牛牛牛牛牛牛！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251583221)<br><br>2020-01-22 22:49<br>赞(0) 踩(0) | <div>牛牛牛牛牛牛牛牛！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402532382)<br><br>2019-12-05 20:41<br>赞(0) 踩(0) | <div>这首歌还可以</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10881363)<br>C'est la vie...<br>2019-10-10 20:54<br>赞(0) 踩(0) | <div>令人羡慕的长腿与发量</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/230281976)<br><br>2019-10-08 19:00<br>赞(0) 踩(0) | <div>我买的第一张也是现在唯一的一张正版CD，开车的时候无限循环一个多月了，感觉我好像能理解你们要表达的意思，却又说不出来，和我心正切合。如果可以的话，mv要做好点才能与这么经典的歌匹配。期待你们的下一张专辑 <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
@@ -275,7 +275,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259727220)<br>人人都热爱音乐。<br>2017-08-10 12:41<br>赞(0) 踩(0) | <div>mdmdmd</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286148744)<br>我还没想好要写什么...<br>2017-08-07 09:52<br>赞(0) 踩(0) | <div>卧槽 睡梦中因为这个曲子醒了！！！ 从此爱上了逃跑计划！卧槽！！卧槽！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/200632206)<br>对周遭一切抱有好奇<br>2017-08-04 03:53<br>赞(0) 踩(0) | <div>虾米版权堪忧</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308609523)<br><br>2017-07-30 12:09<br>赞(0) 踩(0) | <div>好好听啊，要疯了！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308609523)<br><br>2017-07-30 12:09<br>赞(0) 踩(0) | <div>好好听啊，要疯了！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308609523)<br><br>2017-07-30 12:09<br>赞(0) 踩(0) | <div>好好听！！！！！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282238306)<br><br>2017-07-27 16:11<br>赞(0) 踩(0) | <div>对</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21878851)<br><br>2017-07-26 22:47<br>赞(0) 踩(0) | <div>致特别存在的你</div> |
@@ -1256,7 +1256,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/710691)<br><br>2014-04-28 14:37<br>赞(0) 踩(0) | <div>昨天可赞</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21771765)<br><br>2014-04-27 22:44<br>赞(0) 踩(0) | <div>ㄏ</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35883656)<br><br>2014-04-26 18:45<br>赞(0) 踩(0) | <div>喜欢歌词和曲子，给我力量</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10612798)<br><br>2014-04-25 23:55<br>赞(2) 踩(0) | <div>wonderful太特么好听了！！！！！！！！！！！！！！！！！！！！！！！！！！快上资源！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>！！！！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10612798)<br><br>2014-04-25 23:55<br>赞(2) 踩(0) | <div>wonderful太特么好听了！！！！！！！！！！！！！！！！！！！！<br>！！！！！！快上资源！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7251478)<br><br>2014-04-25 19:48<br>赞(0) 踩(0) | <div>毛川，毛川</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319255)<br>谢谢陪伴，虾米再见！<br>2014-04-25 17:34<br>赞(0) 踩(0) | <div>我宁愿所有痛苦都留在心里，也不愿忘记你的眼睛……循环中。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28003457)<br><br>2014-04-25 15:28<br>赞(0) 踩(0) | <div>夜空中最亮的星</div> |

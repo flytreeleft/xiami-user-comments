@@ -56,7 +56,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2020-12-16 07:17<br>赞(0) 踩(0) | <div>42166</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443094630)<br>虾米，再见<br>2020-09-25 01:32<br>赞(0) 踩(0) | <div>哈哈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276944698)<br>不要自我设限.....<br>2020-09-21 10:59<br>赞(1) 踩(0) | <div>♐️♐️♐️</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6629415)<br>=。=<br>2020-08-05 15:35<br>赞(1) 踩(0) | <div>我爱痛仰！！！！！！！！！！！！！！！！！！！！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6629415)<br>=。=<br>2020-08-05 15:35<br>赞(1) 踩(0) | <div>我爱痛仰！！！！！！！！！！！！！！！！！！！！<br>！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379162683)<br>我想要记住你们，我想要你...<br>2020-07-25 08:22<br>赞(1) 踩(0) | <div>✧*｡</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409565386)<br>Cool bananas<br>2020-06-11 19:05<br>赞(2) 踩(0) | <div>求在成都开演唱会，我车贴都买好了，摇大旗啥的有需要就招呼！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282134535)<br><br>2020-07-12 13:42<br>赞(0) 踩(0) | <div>摇起来</div> |
@@ -1009,7 +1009,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16054313)<br>天呵<br>2014-07-24 16:12<br>赞(0) 踩(0) | <div>国内不多的好乐队</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5618806)<br><br>2014-07-24 15:45<br>赞(0) 踩(0) | <div>每次听都有不一样的感觉，陪伴生活中每一个不安的内心。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34078432)<br>KISS &CRY <br>2014-07-23 12:15<br>赞(0) 踩(0) | <div>慢慢来</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10459721)<br>敏感易碎的男子<br>2014-07-22 18:50<br>赞(7) 踩(0) | <div>痛苦的机器！牛逼！！！！！！！！！！！！！！！！！！！！！！！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10459721)<br>敏感易碎的男子<br>2014-07-22 18:50<br>赞(7) 踩(0) | <div>痛苦的机器！牛逼！！！！！！！！！！！！！！！！！！！！<br>！！！！！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6921723)<br><br>2014-07-24 21:03<br>赞(0) 踩(0) | <div>你是说痛仰还是扭机？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1325016)<br> <br>2014-07-25 22:16<br>赞(0) 踩(0) | <div><q><b>鼻涕成诗说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10459721)<br>敏感易碎的男子<br>2014-07-28 20:14<br>赞(0) 踩(0) | <div><q><b>鼻涕成诗说：</b></q></div> |
@@ -1510,7 +1510,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8329540)<br><br>2013-04-13 11:17<br>赞(0) 踩(0) | <div>音乐就是生活</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12423129)<br>身心自由<br>2013-04-12 11:22<br>赞(0) 踩(0) | <div>安阳安阳</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9172387)<br>我还没想好要写什么...<br>2013-04-11 23:43<br>赞(0) 踩(0) | <div>MD，</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6910822)<br><br>2013-04-10 21:26<br>赞(0) 踩(0) | <div>。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。<br>。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6910822)<br><br>2013-04-10 21:26<br>赞(0) 踩(0) | <div>。。。。。。。。。。。。。。。。。。。。<br>。。。。。。。。。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13121817)<br><br>2013-04-10 11:06<br>赞(0) 踩(0) | <div>aihao</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12425775)<br><br>2013-04-08 14:09<br>赞(0) 踩(0) | <div>没理由</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/880891)<br>甩！起！来！！<br>2013-04-03 08:01<br>赞(0) 踩(0) | <div>老乐队了</div> |
@@ -2182,7 +2182,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/777424)<br>是心让爱灿烂<br>2011-08-09 21:59<br>赞(0) 踩(0) | <div>铁托~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/987294)<br>暂无签名~<br>2011-08-09 20:36<br>赞(0) 踩(0) | <div>2011，迷笛，阴霾了一天的天空在痛仰唱歌的时候露出了笑脸，天边的晚霞映红了天空。。等演出结束，雨也就来了。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3115912)<br><br>2011-08-09 20:11<br>赞(0) 踩(0) | <div>喜欢</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5197458)<br><br>2011-08-09 19:25<br>赞(0) 踩(0) | <div>痛  仰！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5197458)<br><br>2011-08-09 19:25<br>赞(0) 踩(0) | <div>痛  仰！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！<br>！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5191614)<br><br>2011-08-09 10:57<br>赞(0) 踩(0) | <div>痛仰！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1635914)<br>地上大老虎,江中小白龙.<br>2011-08-08 19:37<br>赞(0) 踩(0) | <div>有一年MIDI音乐节 下雨 机器设备 都被浇了没法启动.上万的观众不愿意离开,他们在台上 拿着吉他 扩音器...做了一次露天不插电的演出 那天很多人很感动.因为这是种精神,知道么,在中国热爱摇滚的人还在爱,很多年过去了.我们还是那么执着.我很荣幸亲自见证了这世界上最大的露天不插电... 什么也没能停止他们的音乐,还有我们向往自由的心.</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1061664)<br>别偷我能量了，我要捐爱心...<br>2011-08-09 21:17<br>赞(0) 踩(0) | <div>如果我在现场应该哭成面瘫了···</div> |

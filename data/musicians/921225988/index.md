@@ -610,7 +610,7 @@ HIGHER　BROTHERS HIGHER GANG GANG
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258013404)<br><br>2017-05-07 11:08<br>赞(0) 踩(0) | <div>会一直支持你 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/212767189)<br>批话多的fake get...<br>2017-05-06 23:20<br>赞(0) 踩(0) | <div>牛逼  永远挺你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278980589)<br><br>2017-05-06 18:41<br>赞(0) 踩(0) | <div>好牛逼。中国说唱最棒。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12730895)<br>不要离开！<br>2017-05-05 22:47<br>赞(1) 踩(0) | <div>masiweimasiweimasiwei masiweimasiwei masiweimasiweimasiweimasiweimasiweimasiwei</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12730895)<br>不要离开！<br>2017-05-05 22:47<br>赞(1) 踩(0) | <div>masiweimasiweimasiwei masiweimasiwei masiweimasiweimasiweimasiweimasiweimasiw<br>ei</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/833450)<br>仁义礼智信<br>2017-05-05 19:11<br>赞(0) 踩(0) | <div>ty 加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18795983)<br> <br>2017-05-05 16:23<br>赞(0) 踩(0) | <div>老公</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/102585452)<br>好嘛！<br>2017-05-04 10:08<br>赞(0) 踩(0) | <div>还是牛逼的呀</div> |
@@ -1018,7 +1018,7 @@ HIGHER　BROTHERS HIGHER GANG GANG
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/78479368)<br>我想得到个锤子<br>2015-11-29 02:39<br>赞(0) 踩(0) | <div>说唱只拽 你们只帅 社会腐败 会馆最厉害</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5129882)<br>我还没想好要写什么...<br>2015-11-27 19:32<br>赞(0) 踩(0) | <div><img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32194249)<br>这家伙帅的什么也没留下…<br>2015-11-27 11:54<br>赞(0) 踩(0) | <div>有点牙尖</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44180874)<br>HIGHERBROTHE...<br>2015-11-22 02:33<br>赞(60) 踩(0) | <div>牛逼！！！！！！！！！！！！！！！！！！！！！！！！！！！！！我的爱</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44180874)<br>HIGHERBROTHE...<br>2015-11-22 02:33<br>赞(60) 踩(0) | <div>牛逼！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！我的爱</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258338768)<br>马思唯脖子上的草莓是我种...<br>2018-05-04 21:40<br>赞(0) 踩(0) | <div>捕捉</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/234102265)<br><br>2019-08-24 22:44<br>赞(0) 踩(0) | <div>哈哈哈</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278594051)<br><br>2020-12-02 23:25<br>赞(0) 踩(0) | <div>嘿嘿</div> |

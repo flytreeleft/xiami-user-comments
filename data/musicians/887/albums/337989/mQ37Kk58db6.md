@@ -205,7 +205,7 @@ Drum：X<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3979234)<br><br>2011-05-26 16:03<br>赞(0) 踩(0) | <div>喜欢沙哑  不被世俗束缚的声音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3675270)<br><br>2011-04-20 17:25<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1103999)<br><br>2011-04-10 11:35<br>赞(0) 踩(0) | <div>桥段的第三局是可爱的变奏，桥段的第四局是血一般的呐喊。副歌深深印入内心~<br>不过，歌词太拗口~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/413636)<br><br>2011-03-30 02:05<br>赞(0) 踩(0) | <div>shout!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!<br>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/413636)<br><br>2011-03-30 02:05<br>赞(0) 踩(0) | <div>shout!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!<br>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!<br>!!!!!!!!!!!!!!!!!!!!!!!!!!!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2708496)<br><br>2011-03-25 00:14<br>赞(0) 踩(0) | <div>废墟上升起几点火星~~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353841)<br><br>2011-03-23 14:45<br>赞(0) 踩(0) | <div>信仰在空中飘扬</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3090335)<br><br>2011-03-06 00:02<br>赞(0) 踩(0) | <div>冲着汪峰来的</div> |

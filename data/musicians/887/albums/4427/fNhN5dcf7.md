@@ -142,7 +142,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11468938)<br><br>2014-03-31 20:44<br>赞(0) 踩(0) | <div>我要成为你的英雄，带着我的梦想，你的喝彩。（PS:不知道是否最近压力大，早上起来就想听这首歌）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1537893)<br>69devil.com，...<br>2014-03-30 20:34<br>赞(0) 踩(0) | <div>唉。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/141588)<br>活一场。<br>2014-03-27 12:28<br>赞(1) 踩(0) | <div>Bob Dylan《you belong to me》<br><a href="http://www.xiami.com/song/3364627?spm=a1z1s.7154410.1996860142.1.uTrHHt" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/3364627?spm=a1z1s.7154410.1996860142.1.uTrHHt</a><br><br>赤裸裸的抄袭。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84230)<br>只身打马过草原<br>2013-12-24 21:19<br>赞(0) 踩(0) | <div>这不是操袭you belong to me么！！！！！！！！！！！！！！！！！！！！！！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84230)<br>只身打马过草原<br>2013-12-24 21:19<br>赞(0) 踩(0) | <div>这不是操袭you belong to me么！！！！！！！！！！！！！！！！！！！！<br>！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4119231)<br><br>2013-11-16 07:54<br>赞(5) 踩(0) | <div>这首歌如果不算是抄袭的话 那么抄袭这个词语将不复存在</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1747753)<br><br>2013-11-14 11:17<br>赞(0) 踩(0) | <div>初中时我特别喜欢汪峰这首歌，旋律有一种做作的平静。估计听时间唱了会影响长相。。。后来大家听过Bob Dylan的you belong to me,  大家对汪峰也就释然了。@猜火车的小马克</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4558902)<br>个体户<br>2013-11-12 22:37<br>赞(1) 踩(0) | <div>毕业作品就这个了</div> |

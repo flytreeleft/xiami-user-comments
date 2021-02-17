@@ -472,7 +472,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28684694)<br>我还没想好要写什么...<br>2015-10-08 12:53<br>赞(0) 踩(0) | <div>吊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2491381)<br>只不过是个<br>2015-10-07 21:02<br>赞(0) 踩(0) | <div>我去好屌的嗓音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25923000)<br><br>2015-10-02 21:32<br>赞(0) 踩(0) | <div>再不出三砖我要报警了！！！！！！！！！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25923000)<br><br>2015-10-02 21:26<br>赞(0) 踩(0) | <div>啥时候发专辑！！！！！！！！！！！！！！！！！！！！！！！尼玛！！！！！！！！！！！！！！！！！！！！！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25923000)<br><br>2015-10-02 21:26<br>赞(0) 踩(0) | <div>啥时候发专辑！！！！！！！！！！！！！！！！！！！！<br>！！！尼玛！！！！！！！！！！！！！！！！！！！！<br>！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32052730)<br>虾米虾米？<br>2015-09-23 22:42<br>赞(0) 踩(0) | <div>啥时候发新歌…</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6037106)<br> <br>2015-09-23 12:14<br>赞(0) 踩(0) | <div>艺人相册里难道有张天海翼？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5087129)<br> <br>2015-09-19 23:40<br>赞(0) 踩(0) | <div>喜欢她的声音</div> |

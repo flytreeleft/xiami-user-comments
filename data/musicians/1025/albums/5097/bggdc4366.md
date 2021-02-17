@@ -687,7 +687,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12105108)<br><br>2013-01-19 07:03<br>赞(0) 踩(0) | <div>卖女孩的小火柴</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353012)<br>暂无签名~<br>2013-01-07 17:15<br>赞(0) 踩(0) | <div>音质非常清亮柔和，加上简单的吉他伴奏，可以静静欣赏</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11409835)<br><br>2012-12-17 23:31<br>赞(0) 踩(0) | <div>好难过，想哭。。~~~~(&amp;gt;_&amp;lt;)~~~~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9049180)<br><br>2012-12-15 12:58<br>赞(0) 踩(0) | <div>............................................................<br>.</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9049180)<br><br>2012-12-15 12:58<br>赞(0) 踩(0) | <div>........................................<br>.....................</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11824438)<br>各有各命<br>2012-12-10 23:15<br>赞(0) 踩(0) | <div>大学里把考试不及格叫做挂科，考</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11792625)<br><br>2012-12-05 23:49<br>赞(0) 踩(0) | <div>偶然地听到这首歌，不禁想起垃圾桶里冻死的那几个小孩子，觉得很悲伤。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8316910)<br><br>2012-12-03 22:08<br>赞(0) 踩(0) | <div>清澈的男声，跟张信哲声音有一定可比性</div> |
@@ -724,7 +724,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8584442)<br><br>2012-04-22 20:42<br>赞(0) 踩(0) | <div>卖火柴的小男孩&amp;amp;lt;(￣︶￣)&amp;amp;gt;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8953626)<br><br>2012-04-22 10:56<br>赞(0) 踩(0) | <div>点燃火柴的火柴天堂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8604508)<br>猫了个咪的！<br>2012-03-26 23:24<br>赞(0) 踩(0) | <div>火柴天堂。。。经典之作。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8566856)<br>对我来说，你是整个世界！<br>2012-03-26 20:13<br>赞(0) 踩(0) | <div>it.is.the.time.you.have.wasted.for.your.rose.that.makes.your<br>.rose.portant.</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8566856)<br>对我来说，你是整个世界！<br>2012-03-26 20:13<br>赞(0) 踩(0) | <div>it.is.the.time.you.have.wasted.for.your.<br>rose.that.makes.your.rose.portant.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8422004)<br>我还没想好要写什么...<br>2012-03-24 09:20<br>赞(0) 踩(0) | <div>good</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6470347)<br><br>2012-03-23 01:13<br>赞(0) 踩(0) | <div>每次点燃火柴微微光芒，看到希望看到梦想，看见天上的妈妈说话，她说你要勇敢你要坚强，不要害怕不要慌张，让你从此不必再流浪，妈妈牵着你的手回家，睡在温暖花开的天堂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2595353)<br>微笑，给你<br>2012-03-18 12:25<br>赞(0) 踩(0) | <div>我八成是苦没吃够，怎么就这么想流浪</div> |

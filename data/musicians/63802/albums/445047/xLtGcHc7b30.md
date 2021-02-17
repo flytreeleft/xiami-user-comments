@@ -798,7 +798,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5745091)<br><br>2011-09-09 07:23<br>赞(0) 踩(0) | <div>不是愛不起 只是傷不起 不是不愛你 只是傷不起 很棒的歌詞 很美的聲音···</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5723539)<br><br>2011-09-07 13:57<br>赞(0) 踩(0) | <div>当优质音遇上林夕</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/875231)<br><br>2011-09-04 03:01<br>赞(0) 踩(0) | <div>'好声音'</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2448845)<br><br>2011-09-01 22:08<br>赞(0) 踩(0) | <div>。。。。。。。。。。。。。。。。。。。。。。。。。夕爷肿么了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2448845)<br><br>2011-09-01 22:08<br>赞(0) 踩(0) | <div>。。。。。。。。。。。。。。。。。。。。<br>。。。。。夕爷肿么了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5538048)<br><br>2011-08-29 21:08<br>赞(0) 踩(0) | <div>只是伤不起，不是爱不起。蒽！常常因为这样而不敢面对爱~~！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3645479)<br><br>2011-08-27 20:38<br>赞(0) 踩(0) | <div>还可以</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1470741)<br><br>2011-08-25 14:32<br>赞(1) 踩(0) | <div>颤音，转音，听着很入耳，很舒服，声音温暖，感觉心脏被柔柔的抚摸着。<br>最后副歌的部分，也让你忍不住要跟着叹息一声。尤其喜欢前奏的部分，有张力，很大气~</div> |

@@ -1799,7 +1799,7 @@ THE FIRE STILL BURNS WITHIN ME, WITHIN ME<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9503003)<br><br>2012-10-13 15:07<br>赞(0) 踩(0) | <div>英文段唱得很不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/192008)<br><br>2012-10-09 23:57<br>赞(0) 踩(0) | <div>这歌让我很平静</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3729370)<br><br>2012-09-30 23:30<br>赞(0) 踩(0) | <div>月亮在你的眼睛 太阳在我心</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10087695)<br><br>2012-09-26 21:35<br>赞(0) 踩(0) | <div>好听好听好听好听好听好听好听好听！！！！！GOODGOODGOODGOODGOODGOODGOODGOODGOODGOOD！！！！！！！！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10087695)<br><br>2012-09-26 21:35<br>赞(0) 踩(0) | <div>好听好听好听好听好听好听好听好听！！！！！GOODGOODGOODGOODGOODGOODGOODGOODGOODGOOD<br>！！！！！！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7103110)<br><br>2012-09-18 22:46<br>赞(0) 踩(0) | <div>bye~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4896683)<br> <br>2012-09-16 21:31<br>赞(0) 踩(0) | <div>这天气感觉让人又想起这首歌，最爱你唱的～@matail_翱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1669492)<br><br>2012-09-13 20:03<br>赞(0) 踩(0) | <div>月亮在你的眼睛，太阳不在我心。</div> |

@@ -59,7 +59,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350631772)<br><br>2019-01-13 09:27<br>赞(1) 踩(0) | <div>“好了”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409328818)<br>我还没想好要写什么...<br>2019-01-04 11:30<br>赞(5) 踩(0) | <div>进了虾米才发现原来我更喜欢纯音乐！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/214876161)<br>江水风景美如画，只是旧人...<br>2018-12-29 11:20<br>赞(5) 踩(0) | <div>诸位，千万别执着于空，古德说宁愿执有不可执空，到头来还有点作为。这只是惠能开悟一半的偈语，后面大悟后讲的是有。真空生妙有。<br>要学会感受缘起性空，生起妙有。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281978875)<br><br>2018-12-24 17:36<br>赞(5) 踩(0) | <div>悟      静         空       色          空        静        空。。。。。。。。。。。。。。。。。。。。。。。。。。。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281978875)<br><br>2018-12-24 17:36<br>赞(5) 踩(0) | <div>悟      静         空       色          空        静        空。。。。。。。。。。。。。。。。。。。。<br>。。。。。。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345396884)<br><br>2018-10-28 10:02<br>赞(2) 踩(0) | <div>师兄说的对</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334995391)<br>天心月圆<br>2018-10-19 14:51<br>赞(4) 踩(0) | <div>菩提本无树<br>明镜亦非台<br>本来无一物<br>何处惹尘埃</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4792296)<br>我还没想好要写什么...<br>2018-09-29 05:55<br>赞(2) 踩(0) | <div>喜欢</div> |

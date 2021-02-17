@@ -336,7 +336,7 @@ delofamiliaのアルバム「Spaces in Queue」に参加。<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9099824)<br><br>2014-01-11 07:49<br>赞(0) 踩(0) | <div>生日，要快樂哦~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4126362)<br>w_e_chat : y...<br>2014-01-11 07:25<br>赞(0) 踩(0) | <div>happy birthday to you。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/606760)<br>魂牵一线<br>2014-01-11 07:06<br>赞(0) 踩(0) | <div>生日快乐</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8644380)<br>好き        嫌い<br>2014-01-11 04:23<br>赞(0) 踩(0) | <div>Rie fu姐生日快乐！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8644380)<br>好き        嫌い<br>2014-01-11 04:23<br>赞(0) 踩(0) | <div>Rie fu姐生日快乐！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11099657)<br><br>2013-12-29 20:15<br>赞(0) 踩(0) | <div>life is like a boat~第一句就被深深吸引住有木有！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1601713)<br>沉默是金，目前我还是铜。<br>2013-12-12 23:43<br>赞(1) 踩(0) | <div>歌唱着的哲学诗人。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2383934)<br><br>2013-11-29 20:01<br>赞(1) 踩(0) | <div>rie fu结婚了！(￣▽￣)o∠※PAN!=.:*:&amp;#039;☆.:*:&amp;#039;★&amp;#039;:*</div> |

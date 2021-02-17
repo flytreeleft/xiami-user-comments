@@ -129,7 +129,7 @@ http:helenred.blogcn.com<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4454833)<br><br>2012-02-02 20:53<br>赞(0) 踩(0) | <div>时下的词 滚石feel的编曲和唱腔 难懂的珊妮姐 好匪夷所思</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3998552)<br><br>2012-01-27 16:01<br>赞(0) 踩(0) | <div>我就是喜欢这种乱七八糟不知道她在唱什么的歌 有什么办法</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2667489)<br><br>2011-12-15 21:52<br>赞(0) 踩(0) | <div>我不敢和你見面 找不到合適的鞋</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3432063)<br>金属不脏<br>2011-08-15 10:58<br>赞(0) 踩(0) | <div>。。。。。。。。。。。。。。。。。。。。。。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3432063)<br>金属不脏<br>2011-08-15 10:58<br>赞(0) 踩(0) | <div>。。。。。。。。。。。。。。。。。。。。<br>。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2989151)<br> <br>2011-07-05 00:44<br>赞(0) 踩(0) | <div>这个还挺美气的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/744555)<br><br>2011-06-15 17:56<br>赞(0) 踩(0) | <div>珊妮的歌曲很有特色~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1862609)<br>別逼逼<br>2011-05-04 22:31<br>赞(0) 踩(0) | <div>一年錯過一年。</div> |

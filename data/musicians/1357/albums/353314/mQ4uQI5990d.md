@@ -703,7 +703,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1255960)<br><br>2012-10-24 21:40<br>赞(0) 踩(0) | <div>在等那个人。你就是那个人。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/580640)<br>Abigail<br>2012-10-20 18:11<br>赞(0) 踩(0) | <div>现在只想听这首歌...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9401699)<br><br>2012-10-12 16:33<br>赞(0) 踩(0) | <div>你是不是那个人</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7292098)<br>我們不斷相遇 在未來里<br>2012-10-05 13:19<br>赞(0) 踩(0) | <div>我记得那.........................................</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7292098)<br>我們不斷相遇 在未來里<br>2012-10-05 13:19<br>赞(0) 踩(0) | <div>我记得那........................................<br>.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10869124)<br><br>2012-10-02 23:28<br>赞(0) 踩(0) | <div>干干净净的声音，适合夜晚听。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9108800)<br><br>2012-09-28 00:43<br>赞(0) 踩(0) | <div>n久没听到曹方的歌。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7712393)<br><br>2012-09-13 13:09<br>赞(0) 踩(0) | <div>我又开始给你写信，寄莫名地方去。</div> |

@@ -126,7 +126,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/91203448)<br>我想回到过去，沉默着欢喜<br>2016-01-03 20:25<br>赞(0) 踩(0) | <div>我有个朋友叫蕾蕾。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93067106)<br><br>2015-12-20 11:02<br>赞(2) 踩(0) | <div>第一次听这歌是2006年上高中那会儿，当时刚流行mp3.喜欢张震岳的音乐，买的128m的mp3存的全是他的歌，作为男生，这首歌当时让我很感动，很同情。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/102931384)<br> <br>2016-01-24 22:43<br>赞(0) 踩(0) | <div>一样的感觉。张震岳真的很敏感。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6274292)<br><br>2015-11-25 15:28<br>赞(3) 踩(0) | <div>虾米首页推荐的张震岳的一张专辑，竟然有蕾蕾这首歌，好多年前，高中舍友给我听的时候，当年十六七的年龄好想遇见个渣男，然后好想生个孩子，现在想想，太特么脑残了…………………………………………………………</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6274292)<br><br>2015-11-25 15:28<br>赞(3) 踩(0) | <div>虾米首页推荐的张震岳的一张专辑，竟然有蕾蕾这首歌，好多年前，高中舍友给我听的时候，当年十六七的年龄好想遇见个渣男，然后好想生个孩子，现在想想，太特么脑残了……………………………………………………<br>……</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51628365)<br>趁时间，尘世间。<br>2015-12-04 20:15<br>赞(0) 踩(0) | <div>呵呵同感</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93067106)<br><br>2015-12-20 11:02<br>赞(0) 踩(0) | <div><q><b>Elaine说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/118733768)<br> <br>2017-10-28 00:44<br>赞(0) 踩(0) | <div>哈哈 傻瓜</div> |

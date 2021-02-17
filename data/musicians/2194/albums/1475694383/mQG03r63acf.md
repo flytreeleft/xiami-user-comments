@@ -664,7 +664,7 @@ Holiday!<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10114243)<br>暂无签名~<br>2013-08-15 17:16<br>赞(0) 踩(0) | <div>我已经阵亡了。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9430584)<br>废人<br>2013-08-15 15:50<br>赞(1) 踩(0) | <div>滚back your USA, your english 不适合in china</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14023567)<br>我还没想好要写什么...<br>2013-08-15 15:28<br>赞(0) 踩(0) | <div>一起party一起two，我们两个who跟who~  give me one 矿泉water，我不会no three no four~  yi da yi da yi da yi da~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5597408)<br><br>2013-08-15 14:06<br>赞(0) 踩(0) | <div>………………………………………………………………围观</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5597408)<br><br>2013-08-15 14:06<br>赞(0) 踩(0) | <div>……………………………………………………<br>…………围观</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6448036)<br><br>2013-08-15 13:47<br>赞(0) 踩(0) | <div>年度最佳</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6138730)<br><br>2013-08-15 12:04<br>赞(0) 踩(0) | <div>。。仔细看了下歌词。。。。咳</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4767403)<br><br>2013-08-15 11:55<br>赞(0) 踩(0) | <div>大家听听吧！我已被洗脑</div> |

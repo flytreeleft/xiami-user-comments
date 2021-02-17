@@ -1157,7 +1157,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51731065)<br> <br>2016-01-06 12:02<br>赞(0) 踩(0) | <div>很有特色的一位歌手</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/57565798)<br><br>2016-01-05 18:07<br>赞(0) 踩(0) | <div>好棒</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97596988)<br>呼呼啦啦！<br>2016-01-05 10:32<br>赞(0) 踩(0) | <div>温柔细腻的歌让人觉得很舒心。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38666776)<br>即使如此<br>2016-01-05 05:07<br>赞(0) 踩(0) | <div>老伴为什么又不能听了？？？？？？？？？？？？？？？？？？？？？？</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38666776)<br>即使如此<br>2016-01-05 05:07<br>赞(0) 踩(0) | <div>老伴为什么又不能听了？？？？？？？？？？？？？？？？？？？？<br>？？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97475666)<br>很爱很爱李荣浩先生的鲸鱼...<br>2016-01-04 20:24<br>赞(0) 踩(0) | <div>想听李先生的喜剧之王，想听李先生的出卖了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6886821)<br><br>2016-01-04 00:52<br>赞(0) 踩(0) | <div>总觉得声音像陈奕迅，但多了点性感(*^__^*)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45149476)<br>‭<br>2016-01-04 00:32<br>赞(0) 踩(0) | <div>好棒</div> |
@@ -2313,7 +2313,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46414630)<br>暂无签名~<br>2015-01-25 08:17<br>赞(0) 踩(0) | <div>加油加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46315550)<br>暂无签名~<br>2015-01-25 02:19<br>赞(0) 踩(0) | <div>送你们四个字，见仁见智</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17982440)<br>怎么到头来又随着大队走？<br>2015-01-25 02:53<br>赞(0) 踩(0) | <div>同意～</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17982440)<br>怎么到头来又随着大队走？<br>2015-01-25 01:58<br>赞(0) 踩(0) | <div>虽然听着还可以，其实也就这样，太多人喜欢听是因为真没听过多少音乐，感觉听了就很牛，这风格国外太多了，什么迷幻摇滚，车库电子比比皆是，国人太多井底之蛙和跟风之气！我的看法而已勿喷！萝卜青菜……………………………如果实在听不惯我说的………………………………………………………………………………<br>………………………………………………………………………………<br>…………………………………………………………………你TM来打我啊！！！！！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17982440)<br>怎么到头来又随着大队走？<br>2015-01-25 01:58<br>赞(0) 踩(0) | <div>虽然听着还可以，其实也就这样，太多人喜欢听是因为真没听过多少音乐，感觉听了就很牛，这风格国外太多了，什么迷幻摇滚，车库电子比比皆是，国人太多井底之蛙和跟风之气！我的看法而已勿喷！萝卜青菜……………………………如果实在听不惯我说的……………………………………………………<br>……………………………………………………<br>……………………………………………………<br>……………………………………………………<br>……………你TM来打我啊！！！！！！！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14241991)<br><br>2015-01-25 02:48<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17982440)<br>怎么到头来又随着大队走？<br>2015-01-25 02:53<br>赞(0) 踩(0) | <div><q><b>汰子说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17982440)<br>怎么到头来又随着大队走？<br>2015-01-25 11:39<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |

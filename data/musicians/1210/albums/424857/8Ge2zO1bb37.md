@@ -449,7 +449,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4416944)<br><br>2011-06-26 12:16<br>赞(0) 踩(0) | <div>爱又怎样 又不能当饭吃，我口袋没有钱请你吃饭。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/143194)<br><br>2011-06-25 14:14<br>赞(0) 踩(0) | <div>很平实的引起了我的共鸣</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/99546)<br>Hi there<br>2011-06-23 13:00<br>赞(0) 踩(0) | <div>这才是张震岳嘛</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3519132)<br><br>2011-06-21 21:04<br>赞(0) 踩(0) | <div>人生啊。。。。。。。。。。。。。。。。。。。。。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3519132)<br><br>2011-06-21 21:04<br>赞(0) 踩(0) | <div>人生啊。。。。。。。。。。。。。。。。。。。。<br>。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3932008)<br>Two sunsets<br>2011-06-21 17:58<br>赞(0) 踩(0) | <div>喜欢~不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2588069)<br><br>2011-06-21 12:25<br>赞(0) 踩(0) | <div>人生啊，难道是一场梦。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2588069)<br><br>2011-06-21 12:25<br>赞(0) 踩(0) | <div>人生啊。。。</div> |

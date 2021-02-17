@@ -726,7 +726,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3895881)<br><br>2011-10-26 16:22<br>赞(0) 踩(0) | <div>去丽江满大街都在放的一首歌~巨好听~~丽江本地原创歌手</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3895881)<br><br>2011-10-26 16:22<br>赞(0) 踩(0) | <div>去丽江满大街都在放的一首歌~巨好听~~丽江本地原创歌手</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4285607)<br><br>2011-10-22 20:27<br>赞(0) 踩(0) | <div>整个丽江古城都弥漫着这支动听的歌。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/119)<br>在我眼中已留下了深刻的残...<br>2011-10-21 11:46<br>赞(0) 踩(0) | <div>丽江大街小巷放的歌 。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。<br>。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/119)<br>在我眼中已留下了深刻的残...<br>2011-10-21 11:46<br>赞(0) 踩(0) | <div>丽江大街小巷放的歌 。。。。。。。。。。。。。。。。。。。。<br>。。。。。。。。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/752275)<br>暂无签名~<br>2011-10-20 22:27<br>赞(0) 踩(0) | <div>最近迷上的一首歌，很安静，很美</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/752275)<br>暂无签名~<br>2011-10-20 22:11<br>赞(0) 踩(0) | <div>最近喜欢上的一首歌。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72151)<br><br>2011-10-19 22:53<br>赞(0) 踩(0) | <div>朋友推荐说是偶尔在丽江街道上听到的，很喜欢</div> |

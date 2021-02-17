@@ -224,7 +224,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16566470)<br><br>2014-09-19 06:06<br>赞(1) 踩(0) | <div>黑撒的每首歌都听过至少50遍以上了，还没腻，不错~~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9365026)<br>心里装得下江河湖泊 都一...<br>2014-09-19 00:44<br>赞(0) 踩(0) | <div>恭喜入驻，回忆起了高中时光一群人在真爱ktv里吼关中话的喜感场景。<br>请坚持，这个时代最难做到坚持，与你们共勉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1851561)<br><br>2014-09-18 21:03<br>赞(0) 踩(0) | <div>欢迎老陕！！！！！！！！哈哈</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5660107)<br>请你不要吃我，我给你唱一...<br>2014-09-18 17:09<br>赞(0) 踩(0) | <div>快出新歌！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5660107)<br>请你不要吃我，我给你唱一...<br>2014-09-18 17:09<br>赞(0) 踩(0) | <div>快出新歌！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1400641)<br>never stop<br>2014-09-18 15:59<br>赞(0) 踩(0) | <div>遮丝腻补灌！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13194141)<br>看到的给我来个联络方式。...<br>2014-09-18 15:53<br>赞(0) 踩(0) | <div>诶！入驻了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23515843)<br><br>2014-09-16 14:32<br>赞(0) 踩(0) | <div>写实</div> |
@@ -638,7 +638,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1706501)<br><br>2010-12-29 22:42<br>赞(0) 踩(0) | <div>好亲切~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296282)<br><br>2010-12-13 03:14<br>赞(0) 踩(0) | <div>顶呀！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329992)<br><br>2010-12-01 08:15<br>赞(0) 踩(0) | <div>等待西安事变这首新歌。里面到处都是熟悉的地方与回忆。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1962508)<br><br>2010-11-20 10:49<br>赞(0) 踩(0) | <div>支持   陕西方言  ！！！！！！！！！！！！！！！！！！！！！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1962508)<br><br>2010-11-20 10:49<br>赞(0) 踩(0) | <div>支持   陕西方言  ！！！！！！！！！！！！！！！！！！！！<br>！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1393166)<br><br>2010-09-05 02:44<br>赞(0) 踩(0) | <div>唉 帅哥你是几年级的？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1326942)<br><br>2010-08-29 14:48<br>赞(0) 踩(0) | <div>呀，亲切地很么。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1209028)<br><br>2010-07-29 14:56<br>赞(0) 踩(0) | <div>马飞也不错</div> |

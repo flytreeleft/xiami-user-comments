@@ -1067,7 +1067,7 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51480777)<br> <br>2015-08-06 12:51<br>赞(0) 踩(0) | <div>，，我，我，</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51480777)<br> <br>2015-08-06 12:50<br>赞(1) 踩(0) | <div><img src="../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"> <img src="../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"> <img src="../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44127667)<br>Listener.<br>2015-08-05 17:56<br>赞(16) 踩(0) | <div>今天看到别人说，骂一个摇滚歌手，就对他说，您比汪峰还摇滚</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54049797)<br><br>2015-08-05 13:00<br>赞(0) 踩(0) | <div>%22%3E%3Cscript%3Ealert%281%29%3C%2fscript%3E</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54049797)<br><br>2015-08-05 13:00<br>赞(0) 踩(0) | <div>%22%3E%3Cscript%3Ealert%281%29%3C%2fscri<br>pt%3E</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3618203)<br><br>2015-08-05 12:51<br>赞(0) 踩(0) | <div>唱得很有男人味</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3618203)<br><br>2015-08-05 12:50<br>赞(0) 踩(0) | <div>唱歌非常好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3618203)<br><br>2015-08-05 12:50<br>赞(0) 踩(0) | <div>唱歌非常好听</div> |
@@ -1444,7 +1444,7 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38791464)<br>舞榭歌台，风流总被，雨打...<br>2015-11-20 11:44<br>赞(0) 踩(0) | <div>10086</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2872610)<br>暂无签名~<br>2015-01-28 20:18<br>赞(0) 踩(0) | <div>温暖、恬淡、充满对人生的感悟，很经听。不像某些人一味重复嘶哑地生命、自由、孤独等空泛的字眼。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11908597)<br><br>2015-01-26 15:23<br>赞(0) 踩(0) | <div>经典</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9728554)<br><br>2015-01-25 12:29<br>赞(3) 踩(0) | <div>他的歌 真的 好一般 不知道 为何这么出名？？？？？？？？？？？？？？？？？？？？？？</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9728554)<br><br>2015-01-25 12:29<br>赞(3) 踩(0) | <div>他的歌 真的 好一般 不知道 为何这么出名？？？？？？？？？？？？？？？？？？？？<br>？？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/265671)<br>滚吧，生活！<br>2015-02-12 17:14<br>赞(0) 踩(0) | <div>我以前看过一篇报道写的挺客观的：<a href="http://info.av.hc360.com/2011/12/080903396789.shtml" target="_blank" rel="nofollow noreferrer noopener">http://info.av.hc360.com/2011/12/080903396789.shtml</a><br>对于汪峰的心路历程和音乐成就都有提到，对他好奇可以看看，喜欢一个歌手与否是自己的音乐口味而已，没什么大不了的呀。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46211394)<br><br>2015-01-24 19:49<br>赞(0) 踩(0) | <div>服务</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38634040)<br><br>2015-01-22 20:37<br>赞(2) 踩(0) | <div>汪星人入侵地球的前锋</div> |
@@ -2479,7 +2479,7 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16774402)<br><br>2013-09-29 13:23<br>赞(0) 踩(0) | <div>nice</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/864857)<br><br>2013-09-29 05:14<br>赞(2) 踩(0) | <div>在汪峰的脸上我看不到任何喜感。看到他在好声音上的表现，和他离婚后发的长微博，我觉得这个人太需要阳光，太需要放松，太需要幽默，太需要正力量了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-10-03 01:35<br>赞(0) 踩(0) | <div>新歌很放松很嗨 还是有人骂</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21442142)<br>用心，让生活更美好！<br>2013-09-28 20:43<br>赞(0) 踩(0) | <div>越来越喜欢听汪峰的歌。。。。。。。。。。。。。。。。。。。。。。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21442142)<br>用心，让生活更美好！<br>2013-09-28 20:43<br>赞(0) 踩(0) | <div>越来越喜欢听汪峰的歌。。。。。。。。。。。。。。。。。。。。<br>。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3080048)<br>未填写<br>2013-09-28 13:15<br>赞(4) 踩(0) | <div>说点偏激的话。伪摇滚太多，都喜欢标榜自己摇滚，好像贴了个摇滚就是有个性，就能高端洋气上档次。不要动不动就竖起你的手指，吼ROCK~，吼毛，汪峰的音乐感情成分占多数，是个会撕着嗓子用感情唱歌的伪摇滚。<br>中国好声音的选手就不反感他问：你的梦想是什么？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-09-28 07:33<br>赞(0) 踩(0) | <div>。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/238321)<br><br>2013-09-28 00:28<br>赞(0) 踩(0) | <div>好听</div> |

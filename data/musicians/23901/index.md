@@ -392,7 +392,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8884172)<br><br>2014-05-27 22:37<br>赞(0) 踩(0) | <div>喜欢这种风格，很有味道</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8766466)<br>四小二<br>2014-05-27 18:51<br>赞(0) 踩(0) | <div>之前就有在网络上听过他们的viva murder...去了音乐节的现场听更赞了！！！！！！！！！！！现场真是好录音太多了啊！！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12860581)<br>xia'mi我回来啦<br>2014-05-26 23:53<br>赞(0) 踩(0) | <div>这个周末又能见到他们了，天知道我有多兴奋。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24395239)<br>如果我吻你你就微笑我就吻...<br>2014-05-26 10:09<br>赞(3) 踩(0) | <div>2014西！湖！音！乐！节！重！塑！帅！哭！了！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24395239)<br>如果我吻你你就微笑我就吻...<br>2014-05-26 10:09<br>赞(3) 踩(0) | <div>2014西！湖！音！乐！节！重！塑！帅！哭！了！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7774835)<br>我还没想好要写什么...<br>2014-05-26 13:47<br>赞(0) 踩(0) | <div>不听现场不能理解重塑的牛逼~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5548223)<br><br>2014-05-25 00:30<br>赞(0) 踩(0) | <div>一个看了两次 还不过瘾</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12860581)<br>xia'mi我回来啦<br>2014-05-26 23:54<br>赞(0) 踩(0) | <div>I feel the same way...</div> |
@@ -966,7 +966,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2972790)<br>我如此爱你<br>2011-02-25 14:55<br>赞(0) 踩(0) | <div>就是喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2972790)<br>我如此爱你<br>2011-02-25 14:50<br>赞(0) 踩(0) | <div>很棒</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2947526)<br><br>2011-02-24 10:08<br>赞(0) 踩(0) | <div>最想看的现场。。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/721116)<br> <br>2011-02-23 14:34<br>赞(0) 踩(0) | <div>Lov.......................................e</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/721116)<br> <br>2011-02-23 14:34<br>赞(0) 踩(0) | <div>Lov.....................................<br>..e</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35783)<br>身体给雨，灵魂给风。<br>2011-02-20 14:37<br>赞(0) 踩(0) | <div>乐队名字有什么典故吗~？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2361919)<br><br>2011-03-09 19:52<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/924518)<br>Starfall of ...<br>2011-04-08 17:03<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |

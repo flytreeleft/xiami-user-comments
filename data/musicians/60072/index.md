@@ -1550,7 +1550,7 @@ DJ OKAWARI
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11044377)<br>Jah Jah city<br>2013-10-15 11:56<br>赞(0) 踩(0) | <div>jazz hiphop</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1224472)<br><br>2013-10-15 10:01<br>赞(0) 踩(0) | <div>很不错哦~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/673821)<br><br>2013-10-15 02:50<br>赞(0) 踩(0) | <div>改变了对DJ的糟糕印象~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4472905)<br>如果我忘记了 你帮我记得<br>2013-10-14 23:31<br>赞(0) 踩(0) | <div>luv letter是什么的主题曲么！！！！！！！！！！！！！！！！！！！！！！！！！怎么觉得这么熟悉啊啊啊啊啊啊啊啊啊啊啊！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4472905)<br>如果我忘记了 你帮我记得<br>2013-10-14 23:31<br>赞(0) 踩(0) | <div>luv letter是什么的主题曲么！！！！！！！！！！！！！！！！！！！！<br>！！！！！怎么觉得这么熟悉啊啊啊啊啊啊啊啊啊啊啊！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11874730)<br>沉舟侧畔 千帆过。<br>2013-10-20 13:10<br>赞(0) 踩(0) | <div>同感啊！但就是想不起来！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22773484)<br><br>2013-10-14 21:13<br>赞(0) 踩(0) | <div>love</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21045410)<br>so be it<br>2013-10-14 14:53<br>赞(0) 踩(0) | <div>nice!</div> |
@@ -1802,7 +1802,7 @@ DJ OKAWARI
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4164807)<br><br>2013-06-08 15:50<br>赞(0) 踩(0) | <div>钢琴美妙</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4372551)<br><br>2013-06-08 12:02<br>赞(0) 踩(0) | <div>很好很好的...</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8976106)<br>萝莉，御姐，ACG。<br>2013-06-08 09:34<br>赞(0) 踩(0) | <div>好听，喜欢</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10363273)<br> <br>2013-06-07 21:28<br>赞(1) 踩(0) | <div>！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10363273)<br> <br>2013-06-07 21:28<br>赞(1) 踩(0) | <div>！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2565827)<br><br>2013-06-07 20:20<br>赞(0) 踩(0) | <div>喜欢不需要理由</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4430245)<br>Mare…Cullami...<br>2013-06-07 14:09<br>赞(0) 踩(0) | <div>什么时候出新专啊？？？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9606446)<br>nothing to a...<br>2013-06-07 12:21<br>赞(0) 踩(0) | <div>热爱！热爱！热爱！</div> |

@@ -1334,7 +1334,7 @@ Bang Gang, an Icelandic wonder, is actually a one-man band. The voice, instrumen
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4017424)<br><br>2011-12-09 10:34<br>赞(0) 踩(0) | <div>一听前奏就迷上了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347473)<br>闭站前好友打捞计划正式启...<br>2011-12-08 22:27<br>赞(0) 踩(0) | <div>还行</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7157611)<br><br>2011-12-08 20:25<br>赞(0) 踩(0) | <div>随意，自由，安静的感觉</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2640323)<br> <br>2011-12-03 12:51<br>赞(0) 踩(0) | <div>DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2640323)<br> <br>2011-12-03 12:51<br>赞(0) 踩(0) | <div>DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD<br>DD</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1992898)<br>莫名向左<br>2011-12-01 19:38<br>赞(0) 踩(0) | <div>一气呵成、、、灵魂微颤</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1171781)<br>曾是少年。<br>2011-12-01 19:19<br>赞(0) 踩(0) | <div>仿佛触摸到一个暖暖内含光般忧郁的灵魂</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1171781)<br>曾是少年。<br>2011-12-01 19:18<br>赞(0) 踩(0) | <div>仿佛触摸到一个暖暖内含光般忧郁的灵魂</div> |

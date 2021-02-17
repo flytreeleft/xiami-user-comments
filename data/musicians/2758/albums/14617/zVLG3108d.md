@@ -1007,7 +1007,7 @@ this is what we enjoyed not a fantasy
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8281286)<br><br>2017-10-27 23:17<br>赞(0) 踩(0) | <div>朋友们  不管你们是工作  学习  恋爱 单身  快乐  悲伤  正在吃大餐 还是无聊的拔腿毛  我都无条件支持你们</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/219245)<br><br>2017-10-27 23:16<br>赞(0) 踩(0) | <div>“京味儿英语 + 大舌头，神经质的咬字带点偶尔的小忧郁。只要这股屁颠儿劲就够了 ......”  歌曲本来够乐了，再看看别人的评论，真是太欢乐了！大赞中国摇滚新星！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6139410)<br><br>2017-10-27 23:14<br>赞(0) 踩(0) | <div>最近总听到，超喜欢！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10269722)<br><br>2017-10-27 23:14<br>赞(0) 踩(0) | <div>lalaayalalayayayahahlalayahahahyoungforyou!!yayaya</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10269722)<br><br>2017-10-27 23:14<br>赞(0) 踩(0) | <div>lalaayalalayayayahahlalayahahahyoungfory<br>ou!!yayaya</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4762698)<br>如果我怀疑幸福会不会一直...<br>2017-10-27 23:14<br>赞(0) 踩(0) | <div>哈哈哈哈哈，这京式英语快把我逼疯了，神经质之歌！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3115056)<br><br>2017-10-27 23:14<br>赞(0) 踩(0) | <div>哈哈哈哈哈，这京式英语快把我逼疯了，神经质之歌！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2318328)<br><br>2017-10-27 23:10<br>赞(0) 踩(0) | <div>心情不好天气不好滴时候一听这首立马就HIGH起来了~~哈哈....知音难觅其实除了有点重口味也还挺好滴~~但是不是HIGH歌~~我最近沉溺于各种HIGH歌中不可自拔啊.....</div> |

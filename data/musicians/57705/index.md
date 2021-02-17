@@ -402,7 +402,7 @@ Nomak
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7350916)<br>后摇<br>2015-10-19 00:26<br>赞(0) 踩(0) | <div>北京场 有口以一起的咩～</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9968086)<br>只求同好 无关浮名<br>2015-10-19 21:47<br>赞(0) 踩(0) | <div>一起咩</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7350916)<br>后摇<br>2015-10-19 21:50<br>赞(0) 踩(0) | <div><q><b>Sol_chan说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1604346)<br>再見<br>2015-10-18 18:19<br>赞(0) 踩(0) | <div>沒有廣州！！！！！！！！！！！！！！！！！！！！！！！1</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1604346)<br>再見<br>2015-10-18 18:19<br>赞(0) 踩(0) | <div>沒有廣州！！！！！！！！！！！！！！！！！！！！<br>！！！1</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7489678)<br>我还没想好要写什么...<br>2015-10-15 00:16<br>赞(1) 踩(0) | <div>想起nujabes</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6916105)<br><br>2015-10-13 10:24<br>赞(0) 踩(0) | <div>为什么没有放Combine这张专辑上来？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10940214)<br><br>2015-10-04 20:29<br>赞(0) 踩(0) | <div>棒</div> |

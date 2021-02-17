@@ -277,7 +277,7 @@ will it really come here and pick me up
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5098301)<br>我还没想好要写什么...<br>2013-03-08 14:37<br>赞(0) 踩(0) | <div>好久不听 依然觉得牛逼极了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2374630)<br>忍受冷酷的冬天，期待美丽...<br>2013-02-10 14:13<br>赞(0) 踩(0) | <div>听得我要哭了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443950)<br>没有情感，人无法预言<br>2013-01-28 04:07<br>赞(1) 踩(0) | <div>漂浮在原始酒床，感觉自己已经活了很久骨头都融没了但剩那么一点儿魂在水里上下的晃，注视着这天空已经有多久了，空气中只有发酵的二氧化碳，天空是绿色的，空无一人，说句话吧，回答我，但是没有，我已经活得很久了，不能死亡只是漂浮着</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5731138)<br><br>2012-12-25 09:51<br>赞(0) 踩(0) | <div>firefirefirefirefirefirefirefirefirefirefirefirefirefirefire<br>firefirefirefirefirefire</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5731138)<br><br>2012-12-25 09:51<br>赞(0) 踩(0) | <div>firefirefirefirefirefirefirefirefirefire<br>firefirefirefirefirefirefirefirefirefire<br>fire</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8222880)<br><br>2012-12-11 20:40<br>赞(0) 踩(0) | <div>听fire这首歌，太伤感了。直刺入心中，听海王星黎明的盛宴这张专辑都太伤感了。[泪][泪]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2692293)<br>加油<br>2012-12-10 12:59<br>赞(0) 踩(0) | <div>when will the bolide come and carry me away</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428038)<br><br>2012-12-09 21:44<br>赞(0) 踩(0) | <div>不爽时可以撸这首。。。</div> |

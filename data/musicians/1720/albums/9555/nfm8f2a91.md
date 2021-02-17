@@ -1400,7 +1400,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2455382)<br>爱生活~爱音乐~<br>2013-11-05 12:55<br>赞(0) 踩(0) | <div>当年这首歌的MV在电视上经常放~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1620345)<br><br>2013-11-03 06:24<br>赞(1) 踩(0) | <div>这首歌的旋律写的多前卫啊~放到现在听也一点都不过时</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1620345)<br><br>2013-11-03 06:22<br>赞(0) 踩(0) | <div>妈蛋，过去这么多年，这首歌还是我的最爱</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5806141)<br><br>2013-10-17 16:32<br>赞(0) 踩(0) | <div>黄正写的？？？？？？？？？？？？？？？？？？？？？？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5806141)<br><br>2013-10-17 16:32<br>赞(0) 踩(0) | <div>黄正写的？？？？？？？？？？？？？？？？？？？？<br>？？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7251565)<br><br>2013-10-17 13:19<br>赞(0) 踩(0) | <div>很超前的曲风</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7371776)<br>我要钻石心<br>2013-09-29 16:37<br>赞(0) 踩(0) | <div>把大脑填满</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1157611)<br>跳动的世界里找你的频率<br>2013-09-16 16:02<br>赞(0) 踩(0) | <div>跟Lemon Tree好像</div> |

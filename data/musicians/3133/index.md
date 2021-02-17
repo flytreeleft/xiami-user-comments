@@ -435,7 +435,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25923000)<br><br>2015-08-26 18:37<br>赞(0) 踩(0) | <div>彭磊么么哒</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14860)<br><br>2015-08-12 11:19<br>赞(0) 踩(0) | <div>他们真是一股子掩不住才华的狂骚劲儿</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1122268)<br><br>2015-08-10 16:02<br>赞(0) 踩(0) | <div>好久没出专辑了喂</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14219505)<br>不辞而别是最洒脱的方式。<br>2015-08-10 10:54<br>赞(7) 踩(0) | <div>求移除旅行团的歌！！！！！！！！！！！！！！！！！！！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14219505)<br>不辞而别是最洒脱的方式。<br>2015-08-10 10:54<br>赞(7) 踩(0) | <div>求移除旅行团的歌！！！！！！！！！！！！！！！！！！！！<br>！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34162354)<br>我还没想好要写什么...<br>2015-08-04 13:33<br>赞(1) 踩(0) | <div>把爱射给我</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33316771)<br>也许我们永远不会再见<br>2015-08-02 15:13<br>赞(0) 踩(0) | <div>旧裤子</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/955580)<br><br>2015-08-01 20:48<br>赞(1) 踩(0) | <div>大舌头元老，现在唱摇滚、民谣的离不开大舌头了</div> |
@@ -732,7 +732,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13869266)<br>something.<br>2013-04-08 22:51<br>赞(0) 踩(0) | <div>额！试着听了听！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13507579)<br>尊重音乐带给我们的一切<br>2013-04-07 12:38<br>赞(0) 踩(0) | <div>中国摇滚！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8166897)<br>life of pi<br>2013-03-30 10:38<br>赞(0) 踩(0) | <div>可怕的主唱嗓音</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/846130)<br>如果是真的 就让他来吧<br>2013-03-22 17:55<br>赞(0) 踩(0) | <div>忘了昨天！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！！！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/846130)<br>如果是真的 就让他来吧<br>2013-03-22 17:55<br>赞(0) 踩(0) | <div>忘了昨天！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！<br>！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/581075)<br>永远微笑<br>2013-03-22 09:58<br>赞(0) 踩(0) | <div>good</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13112594)<br><br>2013-03-14 18:39<br>赞(0) 踩(0) | <div>好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7661075)<br><br>2013-03-04 17:05<br>赞(1) 踩(0) | <div>真实得可爱，让90后感受到了80后的青春。</div> |
@@ -1088,7 +1088,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/451239)<br><br>2010-05-13 10:54<br>赞(0) 踩(0) | <div><q><b>雷叽叽说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/879957)<br><br>2010-06-22 21:53<br>赞(0) 踩(0) | <div><q><b>Jegatal?说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/515510)<br><br>2010-06-28 09:58<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1378940)<br><br>2010-09-02 16:35<br>赞(0) 踩(0) | <div>农村非主流乐队。。。。。。。。。。。。。。。。。。。。。。。。我简直无言以对</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1378940)<br><br>2010-09-02 16:35<br>赞(0) 踩(0) | <div>农村非主流乐队。。。。。。。。。。。。。。。。。。。。<br>。。。。我简直无言以对</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1574851)<br><br>2010-09-29 15:50<br>赞(0) 踩(0) | <div>这就叫做实力！不靠唱片公司和媒体的炒作而生存下来的队伍才是真正的实力派！！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442141)<br>再会了<br>2010-10-08 14:31<br>赞(0) 踩(0) | <div><q><b>雷叽叽说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/518498)<br><br>2010-11-23 14:58<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |

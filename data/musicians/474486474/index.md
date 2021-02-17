@@ -688,7 +688,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22913167)<br>i'm looking ...<br>2014-06-25 17:52<br>赞(0) 踩(0) | <div>其实我只是来听 Lost Ruins 翻唱的, 嘛 其实一个大方面也是原唱实在捉急得无法直闻<br>Yousa酱的声线很不错 作曲什么的别搞了 先好好练发声来娱♂乐大家吧 ︿(￣︶￣)︿</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34419476)<br><br>2014-06-25 21:01<br>赞(0) 踩(0) | <div>又是你....= = 多多来捧呀</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22913167)<br>i'm looking ...<br>2014-06-26 15:00<br>赞(0) 踩(0) | <div><q><b>Days乐团说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8701834)<br>沉淀中<br>2014-06-25 17:22<br>赞(0) 踩(0) | <div>太棒！！！！！！！！！！！！！！！！！！！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8701834)<br>沉淀中<br>2014-06-25 17:22<br>赞(0) 踩(0) | <div>太棒！！！！！！！！！！！！！！！！！！！！<br>！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2576304)<br>圣德太子与苏我马子<br>2014-06-25 17:19<br>赞(0) 踩(0) | <div>泠鸢入住音乐人 好棒啦~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5014644)<br><br>2014-06-12 13:50<br>赞(0) 踩(0) | <div>在B站听起来完全不是这样子</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5014644)<br><br>2014-06-12 13:49<br>赞(0) 踩(0) | <div>为什么音质那么差？</div> |

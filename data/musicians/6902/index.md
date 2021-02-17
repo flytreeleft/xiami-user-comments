@@ -1609,7 +1609,7 @@ www.newnoise.cn
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4981312)<br><br>2011-07-25 22:48<br>赞(0) 踩(0) | <div>死亡，真的是黑色的。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4965832)<br><br>2011-07-22 01:36<br>赞(0) 踩(0) | <div>亚洲后摇神级乐队</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/681448)<br>你应该是一棵树，或者一条...<br>2011-07-12 19:10<br>赞(0) 踩(0) | <div>nice!</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4202107)<br>我还没想好要写什么...<br>2011-07-12 02:15<br>赞(1) 踩(0) | <div>................................................</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4202107)<br>我还没想好要写什么...<br>2011-07-12 02:15<br>赞(1) 踩(0) | <div>........................................<br>........</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97031)<br><br>2011-07-08 12:03<br>赞(0) 踩(0) | <div>后摇启蒙团诶！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2688180)<br>喜新不厌旧<br>2011-07-05 18:32<br>赞(0) 踩(0) | <div>Mono日本后摇</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/672223)<br>人世难逢开口笑<br>2011-07-02 13:00<br>赞(0) 踩(0) | <div>霓虹的PR天团？</div> |

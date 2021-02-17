@@ -1510,11 +1510,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1115427)<br><br>2012-06-18 20:33<br>赞(0) 踩(0) | <div>非常喜欢的一首歌，和敏感之花的东方一样喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9274341)<br><br>2012-06-15 17:29<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7925156)<br> <br>2012-06-14 22:54<br>赞(0) 踩(0) | <div>青春的人啊~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4362227)<br><br>2012-06-09 20:20<br>赞(0) 踩(0) | <div>前奏真尼玛的像夏洛克里的插曲啊！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4362227)<br><br>2012-06-09 20:20<br>赞(0) 踩(0) | <div>前奏真尼玛的像夏洛克里的插曲啊！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8364924)<br> <br>2012-06-06 23:45<br>赞(0) 踩(0) | <div>每个人都有段回忆叫青春。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1170903)<br>我妖气重我自豪<br>2012-06-05 12:24<br>赞(0) 踩(0) | <div>艺术后摇</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7300904)<br><br>2012-05-31 09:45<br>赞(0) 踩(0) | <div>镜子里那颗晦黯的心, 我已不再那么年轻, 也不再那么热情 ,臆想中的我是那么出色的赢得你的欢心, 一切不再是秘密,</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/863445)<br> <br>2012-05-29 11:46<br>赞(0) 踩(0) | <div>嗯！~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>~~~~~~~~~~~~~~~~~~~~~~~~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/863445)<br> <br>2012-05-29 11:46<br>赞(0) 踩(0) | <div>嗯！~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>~~~~~~~~~~~~~~~~~~~~~~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/265374)<br> <br>2012-05-25 23:49<br>赞(0) 踩(0) | <div>我已不再那么年轻 也不再那么热情 臆想中的我是那么出色的赢得你的欢心 一切不再是秘密</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6031465)<br><br>2012-05-25 20:05<br>赞(0) 踩(0) | <div>我已不再那么年轻<br>也不再那么热情<br>我还有什么可以奉献给你<br>镜子里那颗晦暗的心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3570049)<br><br>2012-05-25 09:36<br>赞(0) 踩(0) | <div>青春的人儿啊 想想一个人的十年会怎样 足够让许多选择发生 许多人事来来往往</div> |
@@ -1784,7 +1784,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1952266)<br><br>2010-11-18 14:25<br>赞(0) 踩(0) | <div>国内其实挺多独立也ok 反光镜啥的 声音玩具啥的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1020194)<br> <br>2010-11-13 20:40<br>赞(0) 踩(0) | <div>把什么都忘记……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1695528)<br><br>2010-11-01 18:42<br>赞(0) 踩(0) | <div>和你在一起我已经，把什么都忘记……</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1227831)<br><br>2010-10-12 13:56<br>赞(0) 踩(0) | <div>。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。<br>。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。<br>。。。。。。。。。。。。。。。。。。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1227831)<br><br>2010-10-12 13:56<br>赞(0) 踩(0) | <div>。。。。。。。。。。。。。。。。。。。。<br>。。。。。。。。。。。。。。。。。。。。<br>。。。。。。。。。。。。。。。。。。。。<br>。。。。。。。。。。。。。。。。。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1357125)<br>我还没想好要写什么...<br>2010-10-11 14:59<br>赞(0) 踩(0) | <div>青春  现实</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/523143)<br>你听见了吗？<br>2010-09-05 20:33<br>赞(0) 踩(0) | <div>居然有探戈的味儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/67750)<br>音乐就是鸟的羽毛<br>2010-08-20 12:09<br>赞(0) 踩(0) | <div>每一个短暂的瞬间，想象著我们永不分离。和你在一起，我已经把什麽都忘记。这是我们的秘密。我还有什麽可以奉献给你？镜子里那颗晦暗的心。臆想中的我是那麽出色的，赢得你的欢心。<br>──声音玩具《秘密的爱》</div> |

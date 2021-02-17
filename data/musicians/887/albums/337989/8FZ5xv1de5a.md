@@ -826,7 +826,7 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6656538)<br><br>2012-04-22 11:05<br>赞(0) 踩(0) | <div>无处安放的青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8929792)<br><br>2012-04-22 01:44<br>赞(0) 踩(0) | <div>后面电吉的s010</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8951234)<br><br>2012-04-22 00:58<br>赞(0) 踩(0) | <div>再见青春再见美丽的疼痛再见青春永远的故乡</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8948376)<br><br>2012-04-21 21:29<br>赞(0) 踩(0) | <div>再见青春再见美丽的疼痛再见青春永恒的迷茫srk1buza1j1anderenshenghu0zh0ngme1y0un1w0yekey1ha0ha0hu0</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8948376)<br><br>2012-04-21 21:29<br>赞(0) 踩(0) | <div>再见青春再见美丽的疼痛再见青春永恒的迷茫srk1buza1j1anderenshenghu0zh0ngme1y0un1w<br>0yekey1ha0ha0hu0</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3239146)<br><br>2012-04-21 18:52<br>赞(0) 踩(0) | <div>再见</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8934398)<br>美妙的音乐盛宴<br>2012-04-20 21:48<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8860391)<br><br>2012-04-20 19:41<br>赞(0) 踩(0) | <div>再见青春</div> |

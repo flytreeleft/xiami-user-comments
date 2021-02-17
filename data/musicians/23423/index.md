@@ -753,7 +753,7 @@ span.Apple-tab-span {white-space:pre}
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7633409)<br><br>2017-10-27 23:57<br>赞(0) 踩(0) | <div><q><b>短发子泡泡酱说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13504319)<br>不太喜欢现在的流行音乐<br>2014-02-09 21:18<br>赞(0) 踩(0) | <div>我们柳州人自己的乐队</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4412959)<br>fresh steame...<br>2014-01-26 17:38<br>赞(0) 踩(0) | <div>听你讲话越听越好玩，「没懂楞天在北京武武武 武吗卵」。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7802006)<br><br>2014-01-26 09:23<br>赞(1) 踩(0) | <div>小爷我喜欢了六年的乐队啊！！！！！！！！！！！！！！！！！！！！！！！！！！！QAQ！！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7802006)<br><br>2014-01-26 09:23<br>赞(1) 踩(0) | <div>小爷我喜欢了六年的乐队啊！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！QAQ！！！！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9163738)<br>我还没想好要写什么...<br>2014-02-15 14:11<br>赞(0) 踩(0) | <div>同六年！！！！！今晚去live现场~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29221851)<br><br>2014-01-21 15:13<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1878296)<br><br>2014-01-17 12:23<br>赞(0) 踩(0) | <div>小清新而不作</div> |
@@ -809,7 +809,7 @@ span.Apple-tab-span {white-space:pre}
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26246185)<br><br>2013-11-30 09:50<br>赞(0) 踩(0) | <div>很happy的曲风·</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24491741)<br>Your love is...<br>2013-11-28 16:02<br>赞(0) 踩(0) | <div>喜欢，觉得有一种特别的感觉。。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12727116)<br> <br>2013-11-27 22:24<br>赞(0) 踩(0) | <div>一般人都会喜欢的小清新类型，听得也酥服~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11275848)<br>往柳暗花明山穷水尽去<br>2013-11-27 20:19<br>赞(0) 踩(0) | <div>复习疲软今天shuffle到这个就完！全！停！不！下！来！了！   super fuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuun!!! 大like!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11275848)<br>往柳暗花明山穷水尽去<br>2013-11-27 20:19<br>赞(0) 踩(0) | <div>复习疲软今天shuffle到这个就完！全！停！不！下！来！了！   super fuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu<br>uun!!! 大like!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3910283)<br>基本款<br>2013-11-28 19:47<br>赞(0) 踩(0) | <div>蛋定蛋定</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1341405)<br>爱一个人，会吻她的缺点<br>2013-11-26 20:00<br>赞(0) 踩(0) | <div>很慢很摇～～～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/737826)<br>交流－分享<br>2013-11-25 17:50<br>赞(0) 踩(0) | <div>好听，舒服，小清新。</div> |

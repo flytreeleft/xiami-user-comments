@@ -551,7 +551,7 @@ On the Volatility of the Mind    was released in 2014.
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5034513)<br><br>2013-08-01 20:51<br>赞(0) 踩(0) | <div>不相信 →_→</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2409310)<br>¯﹃¯<br>2013-08-01 20:01<br>赞(1) 踩(0) | <div>这入驻真是笑尿，目测没征得本人同意，看要开演唱会就擅自给开了吧？今天有好几个关注的artist都这样，难道还真这么巧了 - -</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1195129)<br>他人就是魔鬼。<br>2013-08-01 19:52<br>赞(0) 踩(0) | <div>这个消息通知是怎么回事</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5289881)<br><br>2013-08-01 19:38<br>赞(0) 踩(0) | <div>。。。。。。。。。。。。。。。。。。。。。。。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5289881)<br><br>2013-08-01 19:38<br>赞(0) 踩(0) | <div>。。。。。。。。。。。。。。。。。。。。<br>。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/220719)<br>自知不自見，自愛不自貴<br>2013-08-01 19:13<br>赞(0) 踩(0) | <div>我想問一下，蝦米 是打算要將藝人板塊變成代理機構或者唱片公司的宣傳和收費頁面嗎？<br>看看你們以這些藝人的名義發來的巡演信息吧，就算是他們懂得中文，也不會那個樣子寫吧？<br>蝦米音樂人 是否已經開始變質？或者應該再開設一個 版權代理人 的板塊？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/660968)<br>一起去狗带<br>2013-08-01 18:52<br>赞(0) 踩(0) | <div>=-=声演坊挂个名 当事人又不会来 还不如不要挂</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3110981)<br>:з」∠<br>2013-08-01 18:27<br>赞(0) 踩(0) | <div>真的么！</div> |
@@ -568,7 +568,7 @@ On the Volatility of the Mind    was released in 2014.
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/665580)<br> <br>2013-08-02 11:52<br>赞(0) 踩(0) | <div><q><b>弹toU说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8149394)<br>越努力越幸运.<br>2013-08-01 17:54<br>赞(0) 踩(0) | <div>瓦特！<br>什么叫入驻音乐人呢！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1893921)<br>Stingmania<br>2013-08-01 17:53<br>赞(0) 踩(0) | <div>直接沟通？？！！！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4253084)<br>上帝与你同在<br>2013-08-01 17:53<br>赞(0) 踩(0) | <div>O O!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!音乐人？！！！！！！！！！！！！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4253084)<br>上帝与你同在<br>2013-08-01 17:53<br>赞(0) 踩(0) | <div>O O!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!<br>!!!!!!!!!!!!!音乐人？！！！！！！！！！！！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1686991)<br><br>2013-08-01 17:52<br>赞(0) 踩(0) | <div>What！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2361915)<br>得菩提时，心似琉璃<br>2013-08-01 17:52<br>赞(1) 踩(0) | <div>入驻虾米音乐人了？！！是真人吗真人吗真人吗？？？？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5523541)<br><br>2013-08-01 17:58<br>赞(0) 踩(0) | <div>嗯是的，虾米网的门卫大爷亲眼看见他骑个自行车来上班报到了，虾米网行政部给老塔买了社保，目前暂住在虾米单身宿舍里，村里有人四处给他张罗对象</div> |
@@ -1991,7 +1991,7 @@ On the Volatility of the Mind    was released in 2014.
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292888)<br><br>2010-09-10 16:06<br>赞(0) 踩(0) | <div>这首Vendredi (Waiting Where You Can't See)响起的时候，想起博客里伴着这歌的那些文字。鼻子突然很酸。<br>曾经这首歌专属给某人当成来电铃声，一响我便不假思索的摁下接听然后喊出你的外号。<br>在某个冬天的夜晚，它再次响起，你喝醉了酒在那边问我“你找到新朋友了吗”。<br>我什么都说不出来，我一直在等待，我一直以为你会回心转意的，我一直以为还有机会。<br>即将一年，我们在同一个城市却不在有多大的机会相遇。<br>你说想要新桃花，那么，我就祝你的花期悠长，香气恒远。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1710888)<br><br>2010-10-21 21:53<br>赞(0) 踩(0) | <div>额..人人都有回忆..</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/646377)<br>不忘初心，方得始终<br>2010-10-22 14:49<br>赞(0) 踩(0) | <div>嘿~~~别难过了~~~忘了他吧~~~祝你幸福~~~</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/646377)<br>不忘初心，方得始终<br>2010-10-22 14:49<br>赞(0) 踩(0) | <div>你一定会幸福的！！！！！！！！！！！！！！！！！！！！！！！</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/646377)<br>不忘初心，方得始终<br>2010-10-22 14:49<br>赞(0) 踩(0) | <div>你一定会幸福的！！！！！！！！！！！！！！！！！！！！<br>！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1375928)<br>看到高中创建的歌单…哦呵...<br>2010-09-10 15:34<br>赞(0) 踩(0) | <div>长得帅音乐也帅的艺术家，真的很少！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1710888)<br><br>2010-10-21 21:53<br>赞(0) 踩(0) | <div>同意!</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/158550)<br>认真  你就赢了<br>2010-10-24 22:44<br>赞(0) 踩(0) | <div>麦斯米兰应该算吧 哈哈</div> |

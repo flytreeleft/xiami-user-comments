@@ -282,7 +282,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3413269)<br><br>2013-07-04 11:42<br>赞(0) 踩(0) | <div>声音和外表</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5429478)<br>唯有音乐和亲情不可遗落！<br>2013-06-30 13:12<br>赞(85) 踩(0) | <div>我为嘛那么喜欢你。前段时间一直在想我要找什么样子的男朋友，突然回头来听你的歌，我觉得你就是我想要的。艾玛，表白。。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4701365)<br>戴上耳机，一个人的世界~<br>2013-07-08 15:47<br>赞(0) 踩(0) | <div>哈哈哈</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2523233)<br>太热<br>2014-02-16 14:07<br>赞(0) 踩(0) | <div>女神喜欢这类型的！！！！！！！！！！！！！！！！！！！！！！！！！！！！</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2523233)<br>太热<br>2014-02-16 14:07<br>赞(0) 踩(0) | <div>女神喜欢这类型的！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5429478)<br>唯有音乐和亲情不可遗落！<br>2014-02-16 14:58<br>赞(0) 踩(0) | <div><q><b>ROARRRRoyals说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1670510)<br>职业黑<br>2014-08-14 16:20<br>赞(0) 踩(0) | <div>我愿意为你整容成刘心</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5429478)<br>唯有音乐和亲情不可遗落！<br>2014-08-15 19:11<br>赞(0) 踩(0) | <div><q><b>左伯桃说：</b></q></div> |
@@ -376,14 +376,14 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1279012)<br> <br>2011-11-25 10:45<br>赞(0) 踩(0) | <div>还是小清新</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2062092)<br><br>2011-11-25 10:30<br>赞(0) 踩(0) | <div>新人新势力，支持原创！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2653736)<br><br>2011-11-25 10:04<br>赞(0) 踩(0) | <div>动听～</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5956081)<br><br>2011-11-25 08:47<br>赞(0) 踩(0) | <div>油菜花！！！！！！！！！！！！！！！！！！！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5956081)<br><br>2011-11-25 08:47<br>赞(0) 踩(0) | <div>油菜花！！！！！！！！！！！！！！！！！！！！<br>！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5956081)<br><br>2011-11-25 08:47<br>赞(0) 踩(0) | <div>声音挺好听的还！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5956081)<br><br>2011-11-25 08:46<br>赞(0) 踩(0) | <div>这位笑声那叫一个有特点，，，，，可爱，，哈哈哈 ！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6217712)<br><br>2011-11-25 08:00<br>赞(0) 踩(0) | <div>不过总的来说 这张张专辑还蛮好听的 风格不错</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6217712)<br><br>2011-11-25 07:59<br>赞(0) 踩(0) | <div>打扰一下<br>不讲那句独白还好 歌听起来很吵 讲起话来 像首口水歌 都靠拢凤凰传奇了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2342679)<br>无<br>2011-11-24 21:38<br>赞(0) 踩(0) | <div>嗓音和调调听到了陶喆和周杰伦，<br>节奏和曲子，听到了港台小清新，<br>个人意见。。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1287022)<br> <br>2011-11-24 21:28<br>赞(0) 踩(0) | <div>YOU</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1809745)<br>...<br>2011-11-24 19:54<br>赞(0) 踩(0) | <div>我的天啊啊啊啊啊啊啊啊啊啊啊啊啊啊！！！！！！！！！！！！！凭什么说进棚了录出来太爱了！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1809745)<br>...<br>2011-11-24 19:54<br>赞(0) 踩(0) | <div>我的天啊啊啊啊啊啊啊啊啊啊啊啊啊啊！！！！！！！！！！！！！凭什么说进棚了录出来太爱了！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1266707)<br>\'晚安\'是梦的保护伞<br>2011-11-24 18:59<br>赞(0) 踩(0) | <div>好听的不得了...</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/837609)<br><br>2011-11-24 18:56<br>赞(0) 踩(0) | <div>声音跟郭顶好像，感觉创作不及郭顶</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/987789)<br><br>2011-11-24 15:11<br>赞(0) 踩(0) | <div>很自然的声音</div> |
