@@ -66,11 +66,11 @@ function convert_comment_brief(brief, relative_path = '.') {
     let html = $body.html().replaceAll(/\s*<br>\s*/g, '<br>').replaceAll(/^(<br>)+|(<br>)+$/g, '');
 
     if (html == text) {
-        if (/^.*?[a-zA-Z0-9~!@#$%^&*()-+_=\\\/|,.<>?`;:'"\[\]{}]{60,}.*$/.test(html)) {
-            html = html.replaceAll(/([a-zA-Z0-9~!@#$%^&*()-+_=\\\/|,.<>?`;:'"\[\]{}]{60})/g, '$1<br>').replaceAll(/(<br>)+$/g, '');
+        if (/^.*?[a-zA-Z0-9~!@#$%^&*()-+_=\\\/|,.<>?`;:'"\[\]{}]{40,}.*$/.test(html)) {
+            html = html.replaceAll(/([a-zA-Z0-9~!@#$%^&*()-+_=\\\/|,.<>?`;:'"\[\]{}]{40})/g, '$1<br>').replaceAll(/(<br>)+$/g, '');
         }
-        if (/^.*?[！？，。……（）’“”；：《》「」]{30,}.*$/.test(html)) {
-            html = html.replaceAll(/([！？，。……（）’“”；：《》「」]{30})/g, '$1<br>').replaceAll(/(<br>)+$/g, '');
+        if (/^.*?[！？，。……（）’“”；：《》「」]{20,}.*$/.test(html)) {
+            html = html.replaceAll(/([！？，。……（）’“”；：《》「」]{20})/g, '$1<br>').replaceAll(/(<br>)+$/g, '');
         }
     }
     return html;
