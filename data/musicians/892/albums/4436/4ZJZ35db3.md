@@ -129,7 +129,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5508846)<br><br>2012-08-17 01:09<br>赞(0) 踩(0) | <div>@哆哩球Nole 把青春和这首搞混了，听听吧……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3425353)<br><br>2012-07-09 11:43<br>赞(0) 踩(0) | <div>回忆很温暖 并且 短暂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9663506)<br><br>2012-07-02 13:01<br>赞(0) 踩(0) | <div>下班后静静的听！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9597658)<br><br>2012-06-26 18:11<br>赞(0) 踩(0) | <div>海的原唱 跟小太阳是另一种感觉~~~~~~~~~~~~~~~<br>~~~~~~~~~~~~~~~~~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9597658)<br><br>2012-06-26 18:11<br>赞(0) 踩(0) | <div>海的原唱 跟小太阳是另一种感觉~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2614472)<br><br>2012-06-17 16:11<br>赞(0) 踩(0) | <div>谁在等待我呢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6977975)<br>我是个混蛋.<br>2012-06-06 05:39<br>赞(0) 踩(0) | <div>我在等待谁呢。谁在等待我呢。我在为谁哭泣。谁在为我哭泣。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/991425)<br><br>2012-05-31 09:24<br>赞(0) 踩(0) | <div>王梵瑞 第一次听 不错</div> |

@@ -352,7 +352,7 @@ After self-releasing his first work collection Never End Never Hurt on the inter
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8048209)<br><br>2014-08-05 23:50<br>赞(2) 踩(0) | <div>他伸手，摘下了天真的心</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36537308)<br>重的都留在這<br>2014-07-26 10:58<br>赞(2) 踩(0) | <div>喜欢你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12359709)<br>人生苦短，及时行乐<br>2014-07-17 20:31<br>赞(1) 踩(0) | <div>享受</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12467448)<br>懒<br>2014-07-07 18:05<br>赞(1) 踩(0) | <div>赞爆！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12467448)<br>懒<br>2014-07-07 18:05<br>赞(1) 踩(0) | <div>赞爆！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>！！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34075759)<br>乱花渐欲迷人眼<br>2014-07-11 18:55<br>赞(0) 踩(0) | <div>哇，见到昆明的</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1303937)<br>.<br>2014-08-12 12:44<br>赞(0) 踩(0) | <div><q><b>女王权杖⚜说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34075759)<br>乱花渐欲迷人眼<br>2014-08-20 20:23<br>赞(0) 踩(0) | <div><q><b>常常常.说：</b></q></div> |

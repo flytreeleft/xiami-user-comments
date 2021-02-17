@@ -1360,7 +1360,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/878530)<br> <br>2013-03-21 12:59<br>赞(0) 踩(0) | <div>安安静静！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4095077)<br>暂无签名~<br>2013-03-20 19:18<br>赞(0) 踩(0) | <div>被戳的 体 无 完 肤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/660762)<br><br>2013-03-20 17:41<br>赞(0) 踩(0) | <div>对世间的离别深信不疑<br>因此才会相依<br>没等看见年华流失散尽<br>就变灰烬<br><br>歌词太好</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13602864)<br> <br>2013-03-19 22:11<br>赞(0) 踩(0) | <div>想说“...........................<br>..........”</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13602864)<br> <br>2013-03-19 22:11<br>赞(0) 踩(0) | <div>想说“.............................<br>........”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6669375)<br> <br>2013-03-19 12:47<br>赞(0) 踩(0) | <div>对世间的离别深信不疑<br>因此才会相依<br>没等看见年华流失散尽<br>就变灰烬</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3613602)<br>电影，跑步，音乐<br>2013-03-19 00:42<br>赞(0) 踩(0) | <div>突然就很想念杨乃文。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4103538)<br><br>2013-03-16 23:39<br>赞(0) 踩(0) | <div>被谁毁灭，为谁重生 ，老歌和往日突然走进镜中，好在都过去了。</div> |

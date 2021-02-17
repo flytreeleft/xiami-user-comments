@@ -491,7 +491,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9258331)<br><br>2013-09-15 11:25<br>赞(0) 踩(0) | <div>.....日子过了多少天，一切还是没改变。我不停的在修炼，很快就要变成仙。突然有天我发现，一个东西真可怜。他在到处做宣传，人们都被他欺骗......</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3448138)<br><br>2013-09-12 15:43<br>赞(0) 踩(0) | <div>太欢乐了！！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8326643)<br>听歌识人<br>2013-09-12 09:44<br>赞(0) 踩(0) | <div>可找到这个歌儿啦~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11556491)<br>(/ω＼)<br>2013-09-07 02:02<br>赞(0) 踩(0) | <div>大白薯~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>~~~~~~~~~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11556491)<br>(/ω＼)<br>2013-09-07 02:02<br>赞(0) 踩(0) | <div>大白薯~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>~~~~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18010155)<br><br>2013-09-05 00:05<br>赞(0) 踩(0) | <div>啊啊啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17326367)<br>爱就是极快速的能量振动<br>2013-09-03 22:15<br>赞(0) 踩(0) | <div>你是在侮辱所有诗人  别的不说  没有一点意蕴   如果你是在娱乐 在追妹妹  就当我没说</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1388196)<br>为何在雨伞外独行<br>2013-09-03 12:43<br>赞(1) 踩(0) | <div>虽然纪海星的唱法非常多样化，甚至金属唱腔都出来了，但还是原唱好。</div> |

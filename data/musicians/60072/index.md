@@ -316,7 +316,7 @@ DJ OKAWARI
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17426732)<br>很忙<br>2017-10-27 23:16<br>赞(1) 踩(0) | <div>听Flower Dance总是会觉得心里很压抑啊为毛</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27009635)<br> <br>2017-11-15 08:23<br>赞(0) 踩(0) | <div>试着从不同角度理解，音乐也像文学一样，有光明也有阴影。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340180335)<br>掌握好自我 进退有度量<br>2018-04-09 21:52<br>赞(0) 踩(0) | <div>我觉得flower dance非常活泼美好，但是又有一丝丝悲伤，一个爱情故事</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13507291)<br>Goove<br>2017-10-27 23:06<br>赞(0) 踩(0) | <div>很多曲子都是之前Dancing用到的，希望虾米再多些DJ曲子<br>,Daft Punk, TheAcid,Dogg Maste<br>r,Roger,Bastno,BigRan,Mulder（不<br>是夜店风那简直是什么东西）,P-funk,G-funk,E-<br>funk都可以.</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13507291)<br>Goove<br>2017-10-27 23:06<br>赞(0) 踩(0) | <div>很多曲子都是之前Dancing用到的，希望虾米再多些DJ曲子,Daft Punk, TheAcid,Dogg Master,Roger,Bastno,BigRan,Mul<br>der（不是夜店风那简直是什么东西）,P-funk,G-funk,E-funk都可以.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/359246)<br><br>2017-10-27 23:02<br>赞(0) 踩(0) | <div>不知道推荐过了没……反正是我最近非常喜欢的一个音乐人的音乐……好绕口，音乐人我不认识，只知道他的所有音乐都好好听……赶稿必听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2534965)<br>(´༎ຶ۝༎ຶ)<br>2017-10-22 10:40<br>赞(0) 踩(0) | <div>净化心灵</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282680460)<br> <br>2017-10-15 01:59<br>赞(0) 踩(0) | <div>再来一碗</div> |
@@ -1802,7 +1802,7 @@ DJ OKAWARI
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4164807)<br><br>2013-06-08 15:50<br>赞(0) 踩(0) | <div>钢琴美妙</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4372551)<br><br>2013-06-08 12:02<br>赞(0) 踩(0) | <div>很好很好的...</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8976106)<br>萝莉，御姐，ACG。<br>2013-06-08 09:34<br>赞(0) 踩(0) | <div>好听，喜欢</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10363273)<br> <br>2013-06-07 21:28<br>赞(1) 踩(0) | <div>！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10363273)<br> <br>2013-06-07 21:28<br>赞(1) 踩(0) | <div>！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2565827)<br><br>2013-06-07 20:20<br>赞(0) 踩(0) | <div>喜欢不需要理由</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4430245)<br>Mare…Cullami...<br>2013-06-07 14:09<br>赞(0) 踩(0) | <div>什么时候出新专啊？？？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9606446)<br>nothing to a...<br>2013-06-07 12:21<br>赞(0) 踩(0) | <div>热爱！热爱！热爱！</div> |

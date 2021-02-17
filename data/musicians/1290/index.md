@@ -713,7 +713,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7402157)<br>你先让我躺一会<br>2014-10-31 11:24<br>赞(0) 踩(0) | <div>哈哈哈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203394)<br>三分似神，七分似我。<br>2014-10-24 19:21<br>赞(2) 踩(0) | <div>此人人品极差，决定日后再不听他写的玩意儿。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9642566)<br>最悲惨的人生是没有理想<br>2014-10-22 13:11<br>赞(1) 踩(0) | <div>说实话我从他第一张专辑开始听他的歌 那时候啊 我还把左小定义成摇滚或者金属科的，中间有好多年没有听 ，现在我觉得更偏向民谣了，城市民谣独立民谣。挺有意思的 。有几首歌 听到前面舒服的前奏，刚要安下神来，左小的嗓子一出 先是一激灵，然后又按下神来，然后发现 怎么也安不下神。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11241672)<br>哎╮(╯▽╰)╭呀呀<br>2014-10-15 20:52<br>赞(0) 踩(0) | <div>。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。呵呵</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11241672)<br>哎╮(╯▽╰)╭呀呀<br>2014-10-15 20:52<br>赞(0) 踩(0) | <div>。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。<br>。。。。。。。。呵呵</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1399683)<br><br>2014-10-15 15:59<br>赞(4) 踩(0) | <div>又来了，还是屎拉不出来的感觉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/871412)<br>最多12个字符。<br>2014-10-14 10:24<br>赞(0) 踩(0) | <div>编曲是真的棒，唱得怎么能这么难听……不过没有像以前一样一听就跳过了，慢慢听吧。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2113388)<br><br>2014-10-15 23:56<br>赞(0) 踩(0) | <div>编曲好？唱的难听？我觉得很和谐啊，不然这歌你怎么唱？</div> |
@@ -954,7 +954,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3113982)<br><br>2013-10-01 08:11<br>赞(4) 踩(0) | <div>算个什么东西</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/594428)<br>Swing it<br>2013-09-26 01:01<br>赞(2) 踩(0) | <div>如果我吻你，你就微笑，我就吻你。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3160169)<br>反方向的鐘<br>2013-09-25 12:30<br>赞(3) 踩(0) | <div>挺喜欢左小的，人个性也有才气，<br>有些歌很喜欢，词、曲都很棒，，，，<br>可他的唱腔真的........<br>还没升华到能欣赏的那个阶段啊有木有！<br>。。。囧</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7768540)<br><br>2013-09-24 19:59<br>赞(1) 踩(0) | <div>。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7768540)<br><br>2013-09-24 19:59<br>赞(1) 踩(0) | <div>。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。<br>。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。<br>。。。。。。。。。。。。。。。。。。。。。。。。。。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21135932)<br><br>2013-09-23 22:06<br>赞(0) 踩(0) | <div>gd</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5432836)<br><br>2013-09-22 11:45<br>赞(2) 踩(0) | <div>左小祖咒可以说蛮有才气  可是他那嗓子  真心不敢恭维...</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3320065)<br><br>2013-09-21 17:25<br>赞(0) 踩(0) | <div>啊，又能听了？ 天啊！</div> |

@@ -1955,7 +1955,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7354765)<br><br>2015-07-27 05:25<br>赞(0) 踩(0) | <div>新娘阿花一开始的版本呢？ <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5981195)<br><br>2015-07-26 21:56<br>赞(0) 踩(0) | <div>声音很干净，喜欢加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50323932)<br><br>2015-07-26 17:28<br>赞(0) 踩(0) | <div>超棒</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45445943)<br>记忆给他的礼物.....<br>2015-07-26 16:02<br>赞(0) 踩(0) | <div>咬字发音..........................<br>....</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45445943)<br>记忆给他的礼物.....<br>2015-07-26 16:02<br>赞(0) 踩(0) | <div>咬字发音..............................</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35802892)<br><br>2015-07-26 13:29<br>赞(0) 踩(0) | <div>喜欢你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53531965)<br>I must know ...<br>2015-07-26 12:40<br>赞(0) 踩(0) | <div>听你的歌像在听故事，娓娓动听的歌声唱着一个个善良的人们背后暖暖的故事。加油！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52124158)<br> <br>2015-07-25 22:39<br>赞(0) 踩(0) | <div>声音很好，很喜欢。<br>你不像谁，你就是你自己 <img src="../../images/comments/aa870edd44d3f615d76bed2188beb79d.png">。</div> |

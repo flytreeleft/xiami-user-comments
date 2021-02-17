@@ -437,7 +437,7 @@ HAYA乐团是以蒙古音乐为基础的世界音乐，世界音乐的含义为�
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22275400)<br> <br>2015-01-18 11:29<br>赞(0) 踩(0) | <div><q><b>零壹。说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6233384)<br>入宅中。。。<br>2014-10-28 22:38<br>赞(0) 踩(0) | <div>发现宝藏似的~大爱~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9007365)<br><br>2014-10-28 20:13<br>赞(0) 踩(0) | <div>好棒 ！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2409614)<br><br>2014-10-23 21:21<br>赞(0) 踩(0) | <div>。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2409614)<br><br>2014-10-23 21:21<br>赞(0) 踩(0) | <div>。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。<br>。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。<br>。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。<br>。。。。。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41988110)<br><br>2014-10-14 12:03<br>赞(0) 踩(0) | <div>开阔</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13754696)<br><br>2014-10-04 22:56<br>赞(0) 踩(0) | <div>蒙古语的好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30661087)<br>天真得体<br>2014-10-03 18:17<br>赞(0) 踩(0) | <div>打动人心。</div> |

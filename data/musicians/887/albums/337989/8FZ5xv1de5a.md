@@ -826,7 +826,7 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6656538)<br><br>2012-04-22 11:05<br>赞(0) 踩(0) | <div>无处安放的青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8929792)<br><br>2012-04-22 01:44<br>赞(0) 踩(0) | <div>后面电吉的s010</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8951234)<br><br>2012-04-22 00:58<br>赞(0) 踩(0) | <div>再见青春再见美丽的疼痛再见青春永远的故乡</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8948376)<br><br>2012-04-21 21:29<br>赞(0) 踩(0) | <div>再见青春再见美丽的疼痛再见青春永恒的迷茫srk1buza1j<br>1anderenshenghu0zh0ngme1y0un1w<br>0yekey1ha0ha0hu0</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8948376)<br><br>2012-04-21 21:29<br>赞(0) 踩(0) | <div>再见青春再见美丽的疼痛再见青春永恒的迷茫srk1buza1j1anderenshenghu0zh0n<br>gme1y0un1w0yekey1ha0ha0hu0</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3239146)<br><br>2012-04-21 18:52<br>赞(0) 踩(0) | <div>再见</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8934398)<br>美妙的音乐盛宴<br>2012-04-20 21:48<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8860391)<br><br>2012-04-20 19:41<br>赞(0) 踩(0) | <div>再见青春</div> |
@@ -1203,7 +1203,7 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5387925)<br><br>2012-02-12 12:38<br>赞(0) 踩(0) | <div>北爱，虽然某些情节稍作虚假，但与现实一一对应，看了之后感觉青春在我手缝间滑过，每分每秒都在滑失，而眼前的梦想也在模糊，不是我不想抓住，不是我不想把我，不是我能力不够，现实挡在前面，你无法超越，却只能看着它渐渐消逝。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5771968)<br><br>2012-02-12 06:58<br>赞(0) 踩(0) | <div>人變得現實 到底是好是壞....這劇看的好惆悵....浮誇的城市 滿目瘡痍的繁華 紙醉金迷 不就是這樣的么</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5446455)<br>Just get you...<br>2012-02-12 01:51<br>赞(0) 踩(0) | <div>今天唱这歌唱的差点哭了。再见青春。都不年轻了。你算什么？为自己活着。人都是一次一次长大的。我没想到、我还能再成长一次。够了。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6960972)<br><br>2012-02-12 01:09<br>赞(0) 踩(0) | <div>T__________________________________T</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6960972)<br><br>2012-02-12 01:09<br>赞(0) 踩(0) | <div>T_____________________________<br>_____T</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7805572)<br><br>2012-02-11 22:47<br>赞(0) 踩(0) | <div>再见青春，再见美丽的疼痛；再见青春，永恒的迷惘。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8005804)<br> <br>2012-02-11 21:23<br>赞(0) 踩(0) | <div>漫长的离别里 我只做一件事 专职爱你 如果爱情能成为职业该有多好 我永远都不会早退 也永远不会转行 任期就是一辈子 世界上最幸福的工作 就是专职爱你。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7985902)<br>归欢喜处<br>2012-02-11 16:07<br>赞(0) 踩(0) | <div>北爱之后老想着它的调调~~~</div> |

@@ -383,7 +383,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6217712)<br><br>2011-11-25 07:59<br>赞(0) 踩(0) | <div>打扰一下<br>不讲那句独白还好 歌听起来很吵 讲起话来 像首口水歌 都靠拢凤凰传奇了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2342679)<br>无<br>2011-11-24 21:38<br>赞(0) 踩(0) | <div>嗓音和调调听到了陶喆和周杰伦，<br>节奏和曲子，听到了港台小清新，<br>个人意见。。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1287022)<br> <br>2011-11-24 21:28<br>赞(0) 踩(0) | <div>YOU</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1809745)<br>...<br>2011-11-24 19:54<br>赞(0) 踩(0) | <div>我的天啊啊啊啊啊啊啊啊啊啊啊啊啊啊！！！！！！！！！！！！！凭什么说进棚了录出来太爱了！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1809745)<br>...<br>2011-11-24 19:54<br>赞(0) 踩(0) | <div>我的天啊啊啊啊啊啊啊啊啊啊啊啊啊啊！！！！！！！！！！！！！凭什么说进棚了录出来太爱了！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1266707)<br>\'晚安\'是梦的保护伞<br>2011-11-24 18:59<br>赞(0) 踩(0) | <div>好听的不得了...</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/837609)<br><br>2011-11-24 18:56<br>赞(0) 踩(0) | <div>声音跟郭顶好像，感觉创作不及郭顶</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/987789)<br><br>2011-11-24 15:11<br>赞(0) 踩(0) | <div>很自然的声音</div> |

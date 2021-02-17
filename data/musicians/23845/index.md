@@ -615,7 +615,7 @@ In 2015,her single “Fine On The Outside”was selected for the 88 th  Oscar aw
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15925979)<br><br>2013-07-16 15:51<br>赞(0) 踩(0) | <div>比较喜欢的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16938865)<br><br>2013-07-14 22:01<br>赞(0) 踩(0) | <div>归程的路上，听的格外动听、</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15861910)<br><br>2013-07-14 08:48<br>赞(0) 踩(0) | <div>good sound</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/144619)<br> <br>2013-07-13 21:06<br>赞(0) 踩(0) | <div>换个头像吧。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。明明有更漂亮的头像啦</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/144619)<br> <br>2013-07-13 21:06<br>赞(0) 踩(0) | <div>换个头像吧。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。<br>。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。<br>。。。。。。明明有更漂亮的头像啦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1335979)<br><br>2013-07-12 11:56<br>赞(0) 踩(0) | <div>喜欢抱着吉他的感觉</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8157155)<br>暂无签名~<br>2013-07-12 17:16<br>赞(0) 踩(0) | <div>不能同意更多！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1335979)<br><br>2013-07-12 20:24<br>赞(0) 踩(0) | <div><q><b>小明说：</b></q></div> |

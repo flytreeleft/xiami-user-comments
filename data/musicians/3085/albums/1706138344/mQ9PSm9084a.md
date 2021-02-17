@@ -819,7 +819,7 @@ Jambo Jambo….. （东非语“你好”）  <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/155947)<br>一期一会<br>2012-04-23 22:11<br>赞(0) 踩(0) | <div>再见分别 又想昨天 的迷笛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2362001)<br>大石碎胸口<br>2012-04-23 22:09<br>赞(0) 踩(0) | <div>痛仰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/183827)<br>我还没想好要写什么...<br>2012-04-23 16:51<br>赞(0) 踩(0) | <div>痛仰新歌【源爱无忧】</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/987251)<br>一 念 之 间<br>2012-04-23 12:20<br>赞(0) 踩(0) | <div>OH yeah~~~~~~~~~~~~~~~~~~~~~~~<br>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>~~~~~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/987251)<br>一 念 之 间<br>2012-04-23 12:20<br>赞(0) 踩(0) | <div>OH yeah~~~~~~~~~~~~~~~~~~~~~~~~~~<br>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6266611)<br> <br>2012-04-23 10:55<br>赞(0) 踩(0) | <div>感动</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6266611)<br> <br>2012-04-23 10:40<br>赞(0) 踩(0) | <div>@痛仰乐队</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5114529)<br>暂无签名~<br>2012-04-23 10:37<br>赞(0) 踩(0) | <div>啥时候发布。。 ···</div> |

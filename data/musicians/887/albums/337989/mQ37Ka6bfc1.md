@@ -430,7 +430,7 @@ Drum：Funky<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10484253)<br>new123**<br>2013-02-16 11:41<br>赞(0) 踩(0) | <div>节后综合症需要一首励志的歌激励下</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3891414)<br><br>2013-02-16 03:45<br>赞(0) 踩(0) | <div>当灰烬查封了凝霜的屋檐，当车菊草化作深秋的露水，我用固执的枯藤做成行囊走向了那布满荆棘的他乡。也许迷途的惆怅会扯碎我的脚步，可我相信未来会给我一双梦想的翅膀，虽然失败的苦痛已让我遍体鳞伤，可我坚信光明就在远方。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12914765)<br><br>2013-02-16 01:33<br>赞(0) 踩(0) | <div>也许征程的迷惘会扯碎我的手臂<br>可我相信未来会给我一双梦想的翅膀 !</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8805608)<br><br>2013-02-14 15:01<br>赞(0) 踩(0) | <div>虽然窗外下着雨，听着这歌让我热血沸腾，哈哈哈哈哈哈哈哈哈哈哈哈哈哈！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8805608)<br><br>2013-02-14 15:01<br>赞(0) 踩(0) | <div>虽然窗外下着雨，听着这歌让我热血沸腾，哈哈哈哈哈哈哈哈哈哈哈哈哈哈！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3553081)<br><br>2013-02-14 11:59<br>赞(0) 踩(0) | <div>光明就在远方</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1623581)<br><br>2013-02-13 21:10<br>赞(0) 踩(0) | <div>带上耳机一起来抽风</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5000057)<br><br>2013-02-12 14:53<br>赞(0) 踩(0) | <div>上升1名</div> |

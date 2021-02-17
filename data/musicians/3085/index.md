@@ -1510,7 +1510,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8329540)<br><br>2013-04-13 11:17<br>赞(0) 踩(0) | <div>音乐就是生活</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12423129)<br>身心自由<br>2013-04-12 11:22<br>赞(0) 踩(0) | <div>安阳安阳</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9172387)<br>我还没想好要写什么...<br>2013-04-11 23:43<br>赞(0) 踩(0) | <div>MD，</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6910822)<br><br>2013-04-10 21:26<br>赞(0) 踩(0) | <div>。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6910822)<br><br>2013-04-10 21:26<br>赞(0) 踩(0) | <div>。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。<br>。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13121817)<br><br>2013-04-10 11:06<br>赞(0) 踩(0) | <div>aihao</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12425775)<br><br>2013-04-08 14:09<br>赞(0) 踩(0) | <div>没理由</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/880891)<br>甩！起！来！！<br>2013-04-03 08:01<br>赞(0) 踩(0) | <div>老乐队了</div> |
@@ -2182,7 +2182,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/777424)<br>是心让爱灿烂<br>2011-08-09 21:59<br>赞(0) 踩(0) | <div>铁托~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/987294)<br>暂无签名~<br>2011-08-09 20:36<br>赞(0) 踩(0) | <div>2011，迷笛，阴霾了一天的天空在痛仰唱歌的时候露出了笑脸，天边的晚霞映红了天空。。等演出结束，雨也就来了。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3115912)<br><br>2011-08-09 20:11<br>赞(0) 踩(0) | <div>喜欢</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5197458)<br><br>2011-08-09 19:25<br>赞(0) 踩(0) | <div>痛  仰！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5197458)<br><br>2011-08-09 19:25<br>赞(0) 踩(0) | <div>痛  仰！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5191614)<br><br>2011-08-09 10:57<br>赞(0) 踩(0) | <div>痛仰！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1635914)<br>地上大老虎,江中小白龙.<br>2011-08-08 19:37<br>赞(0) 踩(0) | <div>有一年MIDI音乐节 下雨 机器设备 都被浇了没法启动.上万的观众不愿意离开,他们在台上 拿着吉他 扩音器...做了一次露天不插电的演出 那天很多人很感动.因为这是种精神,知道么,在中国热爱摇滚的人还在爱,很多年过去了.我们还是那么执着.我很荣幸亲自见证了这世界上最大的露天不插电... 什么也没能停止他们的音乐,还有我们向往自由的心.</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1061664)<br>别偷我能量了，我要捐爱心...<br>2011-08-09 21:17<br>赞(0) 踩(0) | <div>如果我在现场应该哭成面瘫了···</div> |

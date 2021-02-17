@@ -683,7 +683,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8982553)<br>心有猛虎细嗅蔷薇<br>2014-11-11 23:13<br>赞(0) 踩(0) | <div>辨识度极高的声音，难得啊！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7032155)<br> <br>2014-11-06 23:00<br>赞(0) 踩(0) | <div>没人？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32139362)<br><br>2014-11-04 02:04<br>赞(0) 踩(0) | <div>好多歌都有特别的意义</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40789381)<br><br>2014-11-01 18:49<br>赞(0) 踩(0) | <div>有点意思 辽宁的？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40789381)<br><br>2014-11-01 18:49<br>赞(0) 踩(0) | <div>有点意思 辽宁的？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？<br>？？？？？？？？？？？？？？？？？？？？？？？？？？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6770587)<br>我还没想好要写什么...<br>2014-11-02 14:27<br>赞(0) 踩(0) | <div>朝鲜族</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39040006)<br>与自己相杀相爱<br>2014-10-30 19:46<br>赞(0) 踩(0) | <div>生日快乐！⭐⭐希望你还可以把唱进听者心中的歌继续唱下去</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15993249)<br><br>2014-10-30 07:35<br>赞(0) 踩(0) | <div>声音真好听</div> |

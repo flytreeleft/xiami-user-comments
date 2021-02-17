@@ -547,7 +547,7 @@ Cara Dillon与中国乐迷的一年之约<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4484973)<br><br>2013-07-23 16:51<br>赞(0) 踩(0) | <div>纯粹的声音，喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4844734)<br><br>2013-07-22 11:42<br>赞(0) 踩(0) | <div>甜美</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/601978)<br><br>2013-07-19 21:51<br>赞(0) 踩(0) | <div>爱尔兰民谣歌手Cara Dillon 2013年首次中国巡演 北京、上海、广州站 已开票 <a href="http://dou.bz/2qgp4a" target="_blank" rel="nofollow noreferrer noopener">http://dou.bz/2qgp4a</a> 每站前50名，送口袋唱片引进版一张。</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5848254)<br>网易云音乐（之后可能会开...<br>2013-07-20 14:04<br>赞(0) 踩(0) | <div>活动开始时间：2013-12-13  ...........<br>.......................，你们办活动.<br>........还是等等在买吧。。。</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5848254)<br>网易云音乐（之后可能会开...<br>2013-07-20 14:04<br>赞(0) 踩(0) | <div>活动开始时间：2013-12-13  ..............................<br>....，你们办活动.........还是等等在买吧。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/601978)<br><br>2013-07-19 21:51<br>赞(0) 踩(0) | <div>爱尔兰民谣歌手CaraDillon北京站暖场嘉宾：吴虹飞与幸福大街 小站是<a href="http://dou.bz/3i8Ufd" target="_blank" rel="nofollow noreferrer noopener">http://dou.bz/3i8Ufd</a> 8点开始演出。演出25分钟。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11222354)<br><br>2013-07-19 08:36<br>赞(0) 踩(0) | <div>不错！！！不错！！！不错！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11222354)<br><br>2013-07-19 08:36<br>赞(0) 踩(0) | <div>不错！！！不错！！！</div> |

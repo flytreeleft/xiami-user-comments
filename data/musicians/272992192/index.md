@@ -615,7 +615,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2759713)<br><br>2014-03-10 19:43<br>赞(0) 踩(0) | <div>我只想说我喜欢。太多感动在心里。不想说。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33850837)<br><br>2014-03-10 19:27<br>赞(0) 踩(0) | <div>平凡的人，不平凡的歌者！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9886034)<br><br>2014-03-10 15:32<br>赞(1) 踩(0) | <div>更喜欢《当风儿经过这里 故乡已经很遥远》。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9386104)<br><br>2014-03-09 14:07<br>赞(1) 踩(0) | <div>这两首都太赞了！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！太他妈的赞了！！！是太！他！妈！赞！！！！！了！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9386104)<br><br>2014-03-09 14:07<br>赞(1) 踩(0) | <div>这两首都太赞了！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>！！！太他妈的赞了！！！是太！他！妈！赞！！！！！了！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/102636)<br><br>2014-03-08 21:31<br>赞(1) 踩(0) | <div>希望能买到你的CD来表我的来自心底的支持~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10371689)<br><br>2014-03-08 20:40<br>赞(0) 踩(0) | <div>喜欢这个会做口弦的男人~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9161767)<br><br>2014-03-08 19:37<br>赞(0) 踩(0) | <div>歌词在唱莫西子诗，这明明是一位现代诗人！</div> |

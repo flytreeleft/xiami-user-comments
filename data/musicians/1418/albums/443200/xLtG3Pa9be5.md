@@ -93,7 +93,7 @@ Bitte 接受我 Bitte 接受我
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8724736)<br><br>2012-04-03 21:53<br>赞(0) 踩(0) | <div>她想戒煙戒酒戒晚餐想借錢借愛借男伴我不帶一點戒心只借幾句呢喃她想要個戒指求心安用借代詞說得舒緩</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1131290)<br>我还没想好要写什么...<br>2012-03-22 14:12<br>赞(0) 踩(0) | <div>忽然发现陈珊妮这张I love you, John其实很恨嫁啊。 Bitte...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4902290)<br><br>2012-03-16 14:39<br>赞(0) 踩(0) | <div>她想戒烟 戒酒 戒晚餐 想借钱 借爱 借男伴 我不带一点戒心 只借几句呢喃</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6707819)<br>暂无签名~<br>2012-02-27 22:26<br>赞(0) 踩(0) | <div>想戒烟戒酒戒晚餐.......Bitte.......Bit<br>te........想藉机藉酒解孤单......Bitte.<br>......Bitte........用藉口借爱讨欢快...<br>...</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6707819)<br>暂无签名~<br>2012-02-27 22:26<br>赞(0) 踩(0) | <div>想戒烟戒酒戒晚餐.......Bitte.......Bitte......<br>..想藉机藉酒解孤单......Bitte.......Bitte.......<br>.用藉口借爱讨欢快......</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6298153)<br><br>2012-02-22 16:42<br>赞(0) 踩(0) | <div>想藉机 藉酒 解孤单！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8127545)<br><br>2012-02-20 23:47<br>赞(0) 踩(0) | <div>戒掉什么 借来什么 一点一点贪图你接受我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4267500)<br><br>2012-02-09 15:35<br>赞(0) 踩(0) | <div>一直喜欢陈珊妮，喜欢她呢喃般的声音。</div> |
