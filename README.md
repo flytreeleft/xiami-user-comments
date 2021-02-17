@@ -29,8 +29,9 @@
 ## 使用说明
 
 > [虾米音乐](https://i.xiami.com/musician/artists)官宣于2021年02月05日关闭，
-> 目前（2021-02-06）似乎其服务器和软件服务还未下线，其网页版链接还可以正常访问，
-> 但其随时可能完全下线，且用且珍惜吧。
+> 目前（2021-02-17）其服务已下线，网页端已无法访问。
+
+在线查看[音乐人列表](./data/musicians/index.md)。
 
 ### 准备工作
 
@@ -100,6 +101,17 @@ node ./js/images.mjs
 该脚本将分析音乐人、专辑、曲目信息中的封面图片以及评论用户的头像和评论中的表情图片，
 然后，将其下载到`./data/images/{albums,comments,musicians,users}`等目录，
 文件名为图片链接的MD5值，确保图片仅被下载一次。
+
+## 数据转换
+
+### To Markdown
+
+```bash
+node ./js/markdown.mjs
+```
+
+运行以上命令后，可在 [data/musicians/index.md](./data/musicians/index.md)
+中查看Markdown格式的音乐人以及用户评论。
 
 ## 免责声明
 
